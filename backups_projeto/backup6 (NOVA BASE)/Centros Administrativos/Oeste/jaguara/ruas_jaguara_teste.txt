@@ -1,0 +1,164 @@
+Avenida Alexandre Colares
+Avenida Ônix
+Avenida Carlos Alberto Vanzolini
+Avenida Cândido Portinari
+Avenida Domingos de Souza Marques
+Avenida dos Remédios
+Avenida Doutor Câmara Leal
+Avenida Federico Fellini(estrada nacional)
+Avenida Manuel Domingos Pinto
+Avenida Manuel Monteiro de Araújo
+Avenida Marginal do Tietê Expressa
+Avenida Marginal do Tietê Local(estrada nacional)
+Avenida Mutinga
+Avenida Osvaldo Costa
+Avenida Padre Almeida
+Avenida Presidente Médici
+Avenida São José
+Rua Adão Gonçalves
+Rua Afonso Claudio
+Rua Agamenon Magalhães
+Rua Agrestina
+Rua Agua Clara
+Rua Alayr Rebello
+Rua Almirante Siqueira Pinto
+Rua Altamira do Paraná
+Rua Alto Camaquã
+Rua Amaro do Couto
+Rua André Rebouças
+Rua Anhaia Lemos
+Rua Antônio Ayrosa
+Rua Antônio Barbosa
+Rua Antônio Batista
+Rua Antônio Beca
+Rua Antônio Bracarena
+Rua Antônio Cubas
+Rua Antônio Grave
+Rua Antônio José de Souza
+Rua Antônio Raspal
+Rua Antonio Reginaldo Filho
+Rua Arantes Monteiro
+Rua Arcanjo Guimarães
+Rua Armadores do Trato
+Rua Avelino Gingo
+Rua Avinhado
+Rua Aziz Jorge
+Rua Água Doce
+Rua Álvaro Guião
+Rua Ênio Gomes da Silva
+Rua Baccio D'Agnolo
+Rua Baltazar Alvares
+Rua Beija Flôr
+Rua Beija-flor
+Rua Betim Paes Leme
+Rua Bom Jesus do Amparo
+Rua Cachoeira do Sul
+Rua Caetano de Vasconcelos
+Rua Campo Frio
+Rua Canastra
+Rua Cangalha
+Rua Canto do Mangue
+Rua Caparao Velho
+Rua Capela de Santana
+Rua Capitão Mor Aguiar Altero
+Rua Capitão Mor Jorge Correia
+Rua Capitão Pedro Capico
+Rua Capitão-Mór Rodrigues de Almeida
+Rua Carlos Alberto Vanzolini
+Rua Cipriano de Góis
+Rua Conselheiro Amaral
+Rua Constantino Alves Lontra
+Rua Coral
+Rua Coronel Pedro de Moura
+Rua Coronel Virgilio dos Santos
+Rua Cristóvão de Gouveia
+Rua Custódio Serrão
+Rua Despedida
+Rua Diogo Fernandes
+Rua Dom Pedro Henrique de Orleans e Bragança
+Rua Domingos de Braga
+Rua Dos Franciscanos
+Rua Doutor Cabral de Vasconcelos
+Rua Eliseu Rodrigues de Almeida
+Rua Embaixador Nelson Tabajara de Oliveira
+Rua Engenheiro Antônio Ponzio Hipolito
+Rua Engenheiro Dorival de Jesus Parisi
+Rua Estevao Barbosa Alves
+Rua Faisão
+Rua Físico Lawrence
+Rua Fernando Ribeiro Marquês
+Rua Flor da Cachoeira
+Rua Flor de Couro
+Rua Francisco Chaves
+Rua Francisco Glicério Freitas
+Rua Francisco Nunes Pereira
+Rua Francisco Olavo de Assis
+Rua Gelmirez Ribeiro Queiroga
+Rua Gonçalo da Costa
+Rua Guiné-Equatorial
+Rua Hauri da Silva Passos
+Rua Inácio Luis da Costa
+Rua Irineu José Bordon
+Rua Isabel de Gamboa
+Rua Jacques Pilon
+Rua Jagoanharo
+Rua Joana Galvão
+Rua Joaquim Oliveira Freitas
+Rua João Almeida Sampaio
+Rua João de Barro
+Rua João Mendes Mesquita
+Rua José Amaro Recife
+Rua José de Sousa Ferreira
+Rua José de Souza Aguiar
+Rua José de Souza Ferreira
+Rua José Domingues Greco
+Rua José Galdino de Lucena
+Rua José Jordão
+Rua José Patricio
+Rua José Pereira Falcão
+Rua José Rodrigues Neves
+Rua José Soeiro de Vaz
+Rua Lopes Barros
+Rua Luis Alves Pinto
+Rua Lupo Homem
+Rua Madre Maria Villac
+Rua Maestro Lorenzo Fernandes
+Rua Manoel Cabino de Carvalho
+Rua Manoel José de Franca
+Rua Manuel de Aguiar
+Rua Maria do Carmo Marialva Aranha
+Rua Marina Pires Oliveira Dias
+Rua Max de Vasconcelos
+Rua Mesa da Consciência
+Rua Mestre Cosme Fernandes
+Rua Michel Haddad
+Rua Nelli de Jesus Paula
+Rua Nicolau Canério
+Rua Nicolau Ciancio
+Rua Nilva
+Rua Olinto Uliani
+Rua Osvaldo Nascimento
+Rua Oswaldo Nascimento
+Rua Otacílio Negrão
+Rua Paúva
+Rua Padre Francisco Barreto
+Rua Paravaí
+Rua Pascoal Fernandes
+Rua Pedro Dias Costa
+Rua Pedro Gonçalves
+Rua Pero Dias
+Rua Pinheiro Raposo
+Rua Presgrave do Amaral
+Rua Professor Carlos Benjamim de Lyra
+Rua Professor Gonzaga
+Rua Raimundo Nonato de Sá
+Rua Rui Porto
+Rua Santa Francisca
+Rua São Bernardino
+Rua São Jerônimo da Serra
+Rua Sebastião Benevides Barrancos
+Rua Serra do Teixeira
+Rua Teixeira Soares
+Rua Uniao da Vitoria
+Rua Urbano da Silva
+Rua Wanderley Sales

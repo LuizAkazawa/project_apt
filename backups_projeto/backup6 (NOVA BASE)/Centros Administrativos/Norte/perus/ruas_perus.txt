@@ -1,0 +1,300 @@
+Avenida Alexios Jafet
+Avenida da Mina
+Avenida Domingos Antônio di Sandro
+Avenida Doutor Sylvio de Campos
+Avenida Fiorelli Peccicacco
+Avenida Marginal
+Avenida Raimundo Pereira de Magalhães
+Rua A
+Rua Acapu
+Rua Aiparuca
+Rua Aipim
+Rua Alabano
+Rua Alagoa Nova
+Rua Alamar
+Rua Aldeia de Pedra
+Rua Alelu
+Rua Almofada
+Rua Ana Maria Franco Laranjeira
+Rua Anari
+Rua Andorinha
+Rua André Álvares do Amaral
+Rua Antônio Bartolomeu
+Rua Antônio Cândido da Rocha
+Rua Antônio Cândido de Alvarenga
+Rua Antônio da Silva Santos
+Rua Antônio de Pádua Dias
+Rua Antônio Freire de Menezes
+Rua Antônio Joaquim de Mello
+Rua Antônio José Anacleto
+Rua Antônio Justiano
+Rua Antônio Maia
+Rua Antônio Paranhos
+Rua Antonieta Maia
+Rua Anturio Rosa
+Rua Aquiles Neto
+Rua Aquilino Ribeiro
+Rua Aracagi
+Rua Argélia
+Rua Aristeu
+Rua Arisudoro
+Rua Armando Correia
+Rua Arunta
+Rua Augusto Valério do Sacramento
+Rua Aurora Boreal
+Rua Avestruz
+Rua Axibi
+Rua Águas Claras do Sul
+Rua Árvore de São Tomás
+Rua Bagageiro
+Rua Bairro da Imbuia
+Rua Banana-Branca
+Rua Bananal do Rio
+Rua Bananalzinho
+Rua Barão Geraldo de Rezende
+Rua Baruare
+Rua Beija Flor
+Rua Bem Ti Vi
+Rua Bem-Aceito
+Rua Benedito Antônio de Luz
+Rua Benedito Aparecido da Silva
+Rua Bernarda de Lacerda
+Rua Bernardo José de Lorena
+Rua Binga
+Rua Bom Destino
+Rua Bom Lugar
+Rua Bondade
+Rua Brasil
+Rua Braz Baltazar da Silveira
+Rua Brioso
+Rua Brotas de Macaúbas
+Rua C
+Rua Caçado
+Rua Campo do Olival
+Rua Canadá
+Rua Canario
+Rua Canhoba
+Rua Carcino
+Rua Carlos Carneiro de Campos
+Rua Carlos Marin
+Rua Carlos Santos Xavier de Moraes
+Rua Cavalo Marinho
+Rua Cândido Afonso Camargo
+Rua César de Castro
+Rua Cercira
+Rua Cesário de Miranda Ribeiro
+Rua Chambourcy
+Rua Charles
+Rua Cipriano Moreira
+Rua Clóvis Cavalcanti
+Rua Cleonice Kammer di Sandro
+Rua Coronel Julião de Moura Negrão
+Rua Cosme dos Santos
+Rua Creonte
+Rua Crispim do Amaral
+Rua Cuitegi
+Rua Curruira
+Rua D
+Rua da Ladeira
+Rua das Araras
+Rua Dedalion
+Rua Demétrio Vidal Lopes
+Rua Demifonte
+Rua Deoclídes Brito
+Rua Dinamarca
+Rua do Bamburral
+Rua do Príncipe Atlântico
+Rua Dois
+Rua Dom Lino Deodato de Carvalho
+Rua Dona Olivia
+Rua Dona Rosina
+Rua dos Heraclidas
+Rua dos Salmistas
+Rua Doutor João Rodrigues de Abreu
+Rua Doutor José Pacheco e Silva
+Rua Doutor Oscar Cunha Correia
+Rua Edelcio
+Rua Elísio Fonseca
+Rua Eleusis
+Rua Elisa Pedroso
+Rua Embaixador Alexandre Conty
+Rua Enéias Galvão
+Rua Engenheiro Augusto Durante
+Rua Engenheiro Nogueira Soares
+Rua Ernersto Diogo de Faria
+Rua Ernesto Bottoni
+Rua Esmirna
+Rua Estados Unidos
+Rua Estevan Ribeiro Resende
+Rua Estrada do Mestre
+Rua Eugênia Câmara
+Rua Eurides Lopes de Albuquerque
+Rua Falero
+Rua Felipe Cardoso de Campos
+Rua Figueiredo Coimbra
+Rua Filgueiras Lima
+Rua Filomena Fongaro
+Rua Fiorelli Peccicacco
+Rua França
+Rua Francesco Mosto
+Rua Francis de Castelnau
+Rua Francisco Araújo Correa
+Rua Francisco Badaró
+Rua Francisco Gaspar
+Rua Francisco José de Barros
+Rua Francisco Mariano da Cunha
+Rua Francisco Rodrigues Penteado
+Rua Francisco Soriano
+Rua Frei Marcos de Lisboa
+Rua Gaivotas
+Rua Gaviao
+Rua Genesis
+Rua George Sarmento
+Rua Gofredo
+Rua Gomes Leite
+Rua Gonçalves de Andrade
+Rua Gorgias
+Rua Grandes Rios
+Rua Grauben do Monte Lima
+Rua Grécia
+Rua Gualterio
+Rua Guilherme Correia de Melo
+Rua Hamilton de Araújo
+Rua Horácio Cartier
+Rua Horácio Mendes Campos
+Rua Ibirite
+Rua Igaci
+Rua Ilha da Vitória
+Rua Ilha da Vitoria
+Rua Ilha de Gale
+Rua Ilha dos Lobos
+Rua Ilha Três Irmãos
+Rua Inca Cor de Rosa
+Rua India
+Rua Ipecaeta
+Rua Ipumirim
+Rua Irineópolis
+Rua Irineopolis
+Rua Irituia
+Rua Itaguaru
+Rua Iuna
+Rua Jacunaum
+Rua Jamaica
+Rua Júlio César Leal
+Rua Júlio Maciel
+Rua Jesuíno Cássia de Lustosa
+Rua Joanina Fanton
+Rua Joao de Barro
+Rua Joaquim da Costa Penha
+Rua Joaquim de Araújo Leite
+Rua Joaquim de Monte Carmelo
+Rua Joaquim de Sousa
+Rua Joaquim de Souza Aranha
+Rua Joaquim José de Almeida
+Rua Joaquim Lopes Guimarães
+Rua Joaquim Teodoro Tavares
+Rua Joaquim Xavier Pinheiro
+Rua João Batista Fanton
+Rua João Guedes de Melo
+Rua João Jacinto de Mendonça
+Rua João Joaquim Alão
+Rua João José de Godoi
+Rua João Justiniano da Silva
+Rua João Lener
+Rua João Leonel dos Santos
+Rua João Pinto Ferreira
+Rua João Vicente Valadão
+Rua Jordão do Canto e Silva
+Rua Jorn Paul Hateyer
+Rua José Adami
+Rua José Brito Mendes
+Rua José Correia Picanco
+Rua José Gomes Segurado
+Rua Juriti
+Rua Juvêncio de Araújo Figueiredo
+Rua Lago Huron
+Rua Laurindo Leão
+Rua Líber
+Rua Lívio de Castro
+Rua Leão Meneghini
+Rua Licínio Cardoso
+Rua Lucilo Bueno
+Rua Luis Antônio Burgain
+Rua Luis Carlos de Assumpção
+Rua Luis Nogueira
+Rua Magalhães Lemos
+Rua Manitoba
+Rua Manuel Felizardo de Souza
+Rua Manuel Teixeira
+Rua Mar do Labrador
+Rua Marcelino Ferreira Bueno
+Rua Marcondes de Moura e Costa
+Rua Margarida Rainha
+Rua Maria Caruso Bueno Brandão
+Rua Maria de Oliveira Faria
+Rua Marim Lobo de Saldanha
+Rua Miguel Vilela
+Rua Mogeiro
+Rua Monte Sinai
+Rua Nandiras
+Rua Narciso Degrande
+Rua Nicola Vicentino
+Rua Nilo Bruzzi
+Rua Olímpio Francisco Pedreiro
+Rua Orco
+Rua Orlando Peccicacco
+Rua Padre Diogo Antônio Feijó
+Rua Padre Manuel Campello
+Rua Papagaio
+Rua Paulino Cabral
+Rua Paulo Lacombe
+Rua Pedro Flores
+Rua Pedro Vicente de Azevedo
+Rua Perla
+Rua Pica Pau
+Rua Pinho Leal
+Rua Pirabebe
+Rua Polifontes
+Rua Presidente Tancredo Neves
+Rua Presidente Vargas
+Rua Princesa Diana
+Rua Principal
+Rua Professor Augusto Nobre
+Rua Raphael di Sandro
+Rua Recanto dos Humildes
+Rua Rio Bravo
+Rua Rio Colorado
+Rua Rio Jundiai
+Rua Rio Yukon
+Rua Roque Callage
+Rua Rosa do Japão
+Rua Rosinda
+Rua Rouxinol
+Rua Salles Gomes
+Rua Santa Cruz
+Rua Santa Gertrúdes
+Rua Santina
+Rua Santo Soncin
+Rua São Mateus
+Rua São Paulo
+Rua Sertão de Canudos
+Rua Silverânia
+Rua Sorano
+Rua Sucre
+Rua Taipoca
+Rua Tarcon
+Rua Telma
+Rua Tiburno
+Rua Tito LIra
+Rua Tomas Xavier de Almeida
+Rua Tribuno
+Rua União
+Rua Vicente Licinio Cardoso
+Rua Violeta dos Alpes
+Rua Violeta Silvestre
+Rua Virgílio Paltrinieri
+Rua Visconti Coaracy
+Rua Xavier de Castro
+Rua Ximburetinga
+Rua Xororo
+Rua Ylídio Figueiredo

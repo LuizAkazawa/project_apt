@@ -1,0 +1,401 @@
+
+Rua Carlos José de Castilho
+, São Paulo, SP, 
+Alameda Ibiracemas
+, São Paulo, SP, 
+Rua Carneiro Leão
+, São Paulo, SP, 
+Avenida Onze de Junho
+, São Paulo, SP, 
+Rua Filadélphia
+, São Paulo, SP, 
+Rua Engenheiro Toledo Malta
+, São Paulo, SP, 
+Rua Delfino Casal de Rey
+, São Paulo, SP, 
+Rua General Costa Campos
+, São Paulo, SP, 
+Rua Barão da Cunha de Araripe
+, São Paulo, SP, 
+Praça José Moreno
+, São Paulo, SP, 
+Rua Caiabu
+, São Paulo, SP, 
+Rua Desembargador Isnard dos Reis
+, São Paulo, SP, 
+Praça Argemiro Alves de Sá
+, São Paulo, SP, 
+Rua Emílio Baumgart
+, São Paulo, SP, 
+Rua Frei Galvão
+, São Paulo, SP, 
+Rua Dario Vilares Barbosa
+, São Paulo, SP, 
+Rua Aracari
+, São Paulo, SP, 
+Rua Benício José da Fonseca
+, São Paulo, SP, 
+Alameda Olga
+, São Paulo, SP, 
+Rua Eusébio da Silva
+, São Paulo, SP, 
+Parque Luiz Carlos Prestes
+, São Paulo, SP, 
+Rua Aracena
+, São Paulo, SP, 
+Avenida Doutor Vital Brasil
+, São Paulo, SP, 
+Rua Brejo Alegre
+, São Paulo, SP, 
+Praça Memória do Jaçanã
+, São Paulo, SP, 
+Praça Antônio Sabino
+, São Paulo, SP, 
+Avenida Doutor Henrique Guilherme Thut
+, São Paulo, SP, 
+Avenida Alexandrina Malisano de Lima
+, São Paulo, SP, 
+Praça Manoel Maiotti
+, São Paulo, SP, 
+Rua Indaiá Grande
+, São Paulo, SP, 
+Rua Frei Tiago de Cavedini
+, São Paulo, SP, 
+Rua Cascado
+, São Paulo, SP, 
+Rua Henrique Osvaldo
+, São Paulo, SP, 
+Rua Barbeiro de Sevilha
+, São Paulo, SP, 
+Rua Agostinho Miranda
+, São Paulo, SP, 
+Rua Doutor Nestor Alberto de Macedo
+, São Paulo, SP, 
+Rua Della Casa
+, São Paulo, SP, 
+Rua Costa de Lavos
+, São Paulo, SP, 
+Rua Hermilo Alves
+, São Paulo, SP, 
+Rua Brás de Faria
+, São Paulo, SP, 
+Rua Folha Dourada
+, São Paulo, SP, 
+Rua Clower Bastos Cortez
+, São Paulo, SP, 
+Rua Giuseppe Bibiena
+, São Paulo, SP, 
+Rua Antônio Agostinho Martins
+, São Paulo, SP, 
+Rua Ingaí
+, São Paulo, SP, 
+Rua Boracéa
+, São Paulo, SP, 
+Rua Américo Samarone
+, São Paulo, SP, 
+Rua Amaro Bezerra Cavalcanti
+, São Paulo, SP, 
+Rua Floriano Miranda
+, São Paulo, SP, 
+Rua Carlo Rossi
+, São Paulo, SP, 
+Praça Dom Ernesto de Paula
+, São Paulo, SP, 
+Ponte de Retorno
+, São Paulo, SP, 
+Rua Eurípedes
+, São Paulo, SP, 
+Rua Capitão Rangel
+, São Paulo, SP, 
+Rua Cássio Fonseca
+, São Paulo, SP, 
+Avenida Santa Efigênia
+, São Paulo, SP, 
+Rua Francisco Salles Malta Júnior
+, São Paulo, SP, 
+Rua Francisco Borsage
+, São Paulo, SP, 
+Rua Coronel Teodoro Ferreira
+, São Paulo, SP, 
+Rua Coração de Bugre
+, São Paulo, SP, 
+Rua Agripalma
+, São Paulo, SP, 
+Rua André Brancacci
+, São Paulo, SP, 
+Rua Gonçalves de Oliveira
+, São Paulo, SP, 
+Rua General Raposo
+, São Paulo, SP, 
+Avenida de Pinedo
+, São Paulo, SP, 
+Rua Antônio Teodoro
+, São Paulo, SP, 
+Rua Amália de Oliveira Vargas
+, São Paulo, SP, 
+Rua Francisco Zanela
+, São Paulo, SP, 
+Praça Mairiporã
+, São Paulo, SP, 
+Rua Dione
+, São Paulo, SP, 
+Rua Bernardino Bertollotti
+, São Paulo, SP, 
+Rua Dom Tomás de Noronha
+, São Paulo, SP, 
+Rua Emílio Rodrigues
+, São Paulo, SP, 
+Rua Doutor Sanareli
+, São Paulo, SP, 
+Rua Amadeu dos Santos
+, São Paulo, SP, 
+Avenida Vinte e Três de Maio
+, São Paulo, SP, 
+Rua Doutor Francisco Eugênio
+, São Paulo, SP, 
+Avenida Jules Rimet
+, São Paulo, SP, 
+Rua Honório Serpa
+, São Paulo, SP, 
+Rua Ester de Carvalho
+, São Paulo, SP, 
+Rua Bernardo Correia Leitão
+, São Paulo, SP, 
+Rua Aefucá
+, São Paulo, SP, 
+Rua 9 de Setembro
+, São Paulo, SP, 
+Rua Gil Simões da Costa
+, São Paulo, SP, 
+Rua Frauenfeld
+, São Paulo, SP, 
+Praça Pristina
+, São Paulo, SP, 
+Alameda Jequitibas
+, São Paulo, SP, 
+Rua Engenheiro Adelmar de Mello Franco
+, São Paulo, SP, 
+Praça Edes Gomes
+, São Paulo, SP, 
+Rua Igarapé Cajueiro
+, São Paulo, SP, 
+Praça do Oceanográfico
+, São Paulo, SP, 
+Rua Eduardo Espinola Filho
+, São Paulo, SP, 
+Rua Ida Maia de Carvalho
+, São Paulo, SP, 
+Rua Artur Felice
+, São Paulo, SP, 
+Praça Alfredo Egydio Arruda Villela
+, São Paulo, SP, 
+Rua Antero Bloem
+, São Paulo, SP, 
+Rua Helenira Rezende de Souza Nazareth
+, São Paulo, SP, 
+Avenida Waldemar Roberto
+, São Paulo, SP, 
+Rua Dona Alzira Pedroso de Mello
+, São Paulo, SP, 
+Rua Doutor Luís Pisa
+, São Paulo, SP, 
+Rua Capela do Alto
+, São Paulo, SP, 
+Rua Cerro Baú
+, São Paulo, SP, 
+Rua Ilha dos Lobos
+, São Paulo, SP, 
+Rua Codorna
+, São Paulo, SP, 
+Praça Tico-Tico
+, São Paulo, SP, 
+Rua Bernardo Barbosa
+, São Paulo, SP, 
+Rua Francesco Ciampi
+, São Paulo, SP, 
+Rua Amadeu Danieli Filho
+, São Paulo, SP, 
+Rua Domingos Prado
+, São Paulo, SP, 
+Rua Inhanduva
+, São Paulo, SP, 
+Rua Guimarães Passos
+, São Paulo, SP, 
+Rua Campinarana
+, São Paulo, SP, 
+Rua Garcia de Abranches
+, São Paulo, SP, 
+Rua Caminho 52
+, São Paulo, SP, 
+Praça José Tomaselli
+, São Paulo, SP, 
+Rua Doutor William Bagby
+, São Paulo, SP, 
+Rua Guanabi
+, São Paulo, SP, 
+Rua André Kohle
+, São Paulo, SP, 
+Rua Aral
+, São Paulo, SP, 
+Rua Dom Modesto
+, São Paulo, SP, 
+Rua Doutor Oscar de Sousa
+, São Paulo, SP, 
+Rua Doutor Aureliano da Silva Arruda
+, São Paulo, SP, 
+Rua Gloxineas
+, São Paulo, SP, 
+Rua Dulce Beatriz
+, São Paulo, SP, 
+Rua Bento de Abreu
+, São Paulo, SP, 
+Rua Doutor José Almeida Camargo
+, São Paulo, SP, 
+Rua Barão da Vitória
+, São Paulo, SP, 
+Rua Honório Martins
+, São Paulo, SP, 
+Rua Doutor Benedito Antônio
+, São Paulo, SP, 
+Rua Araxical
+, São Paulo, SP, 
+Rua Forte de Itaipu
+, São Paulo, SP, 
+Rua Eny Alves de Souza Leite
+, São Paulo, SP, 
+Rua Arapongas
+, São Paulo, SP, 
+Avenida Amador Bueno da Veiga
+, São Paulo, SP, 
+Rua Gonçalo Camacho
+, São Paulo, SP, 
+Rua Antenor de Lara Campos
+, São Paulo, SP, 
+Rua Barão de Itapoa
+, São Paulo, SP, 
+Rua Atucupe
+, São Paulo, SP, 
+Rua Clóvis Mário da Silva
+, São Paulo, SP, 
+Rua Aperuá
+, São Paulo, SP, 
+Rua Ajaroba
+, São Paulo, SP, 
+Rua Ibi
+, São Paulo, SP, 
+Rua Barão do Amazonas
+, São Paulo, SP, 
+Rua Genaro Arila Arensanz
+, São Paulo, SP, 
+Rua Alves Cardoso
+, São Paulo, SP, 
+Rua Herbert Erich Kremer
+, São Paulo, SP, 
+Rua Benedito de Sousa Borges
+, São Paulo, SP, 
+Rua Caçador Narciso
+, São Paulo, SP, 
+Rua Campo Comprido
+, São Paulo, SP, 
+Rua Inácio Preto de Morais
+, São Paulo, SP, 
+Rua Frei Antônio Brandão
+, São Paulo, SP, 
+Rua Diabase
+, São Paulo, SP, 
+Rua Cojuba
+, São Paulo, SP, 
+Rua Alcides de Paiva Monteiro
+, São Paulo, SP, 
+Praça Nicolau Aranha Pacheco
+, São Paulo, SP, 
+Estrada Canal de Cocaia
+, São Paulo, SP, 
+Rua Ladário
+, São Paulo, SP, 
+Rua Constelação do Índio
+, São Paulo, SP, 
+Rua Canto da Vida
+, São Paulo, SP, 
+Praça José Vítor de Moura Ramos
+, São Paulo, SP, 
+Rua Guapéu
+, São Paulo, SP, 
+Rua Comendador Jorge Mancini
+, São Paulo, SP, 
+Rua Antônio Caldas
+, São Paulo, SP, 
+Rua Henrique da Costa
+, São Paulo, SP, 
+Rua Adrianópolis
+, São Paulo, SP, 
+Rua Gravaçu
+, São Paulo, SP, 
+Rua Filipe Fragoso
+, São Paulo, SP, 
+Praça Soldado Edson Ribeiro de Siqueira
+, São Paulo, SP, 
+Rua Guaiçará
+, São Paulo, SP, 
+Rua Amauri de Oliveira Lima
+, São Paulo, SP, 
+Avenida Lins de Vasconcelos
+, São Paulo, SP, 
+Rua Dona Aurora Guimarães
+, São Paulo, SP, 
+Rua Araviri
+, São Paulo, SP, 
+Rua Américo Nunes
+, São Paulo, SP, 
+Rua Charles Murray
+, São Paulo, SP, 
+Rua Aranha de Vasconcelos
+, São Paulo, SP, 
+Rua Antônio Armando
+, São Paulo, SP, 
+Praça Professor Gomes de Sousa
+, São Paulo, SP, 
+Rua Domingos Sequeira
+, São Paulo, SP, 
+Rua Anders Meceni
+, São Paulo, SP, 
+Rua Bueru
+, São Paulo, SP, 
+Praça Marcondes Ferraz
+, São Paulo, SP, 
+Praça Olavo Monteiro
+, São Paulo, SP, 
+Rua Artur Alvim
+, São Paulo, SP, 
+Rua Apurina
+, São Paulo, SP, 
+Rua Borja Castro
+, São Paulo, SP, 
+Rua Antônio Machado
+, São Paulo, SP, 
+Rua Coronel Mursa
+, São Paulo, SP, 
+Rua Albino de Morais
+, São Paulo, SP, 
+Rua Frias Taveira
+, São Paulo, SP, 
+Rua Doutor Assis Cintra
+, São Paulo, SP, 
+Rua Aleixo Garcez da Cunha
+, São Paulo, SP, 
+Rua Igarapé Esmeralda
+, São Paulo, SP, 
+Rua Horácio Lane
+, São Paulo, SP, 
+Rua Crispim do Amaral
+, São Paulo, SP, 
+Rua Ana Anita Araújo
+, São Paulo, SP, 
+Rua Doutor Vicente Ancona
+, São Paulo, SP, 
+Rua Amazonas
+, São Paulo, SP, 
+Rua Antônio de Lustosa
+, São Paulo, SP, 
+Rua Hermínio Rosa
+, São Paulo, SP, 

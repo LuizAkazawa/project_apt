@@ -1,0 +1,289 @@
+Avenida Alberto Augusto Alves
+Avenida Carlos Caldeira Filho
+Avenida Carlos Queiroz Telles
+Avenida das Belezas
+Avenida Dona Helena Pereira de Moraes
+Avenida Dona Maria Mesquita de Mota e Silva
+Avenida Doutor Guilherme Dumont Vilares
+Avenida Giovanni Gronchi
+Avenida Hebe Camargo
+Avenida João Dias
+Avenida José Galante
+Avenida Marechal Juarez Tavora
+Avenida Marechal Juarez Távora
+Avenida Maria Coelho de Aguiar
+Avenida Morumbi
+Avenida Silvio Ribeiro Aragão
+Rua Abdo Ambuba
+Rua Adalberto de Matos
+Rua Afonso Vidal
+Rua Alcantarilla
+Rua Alexandre Archipenko
+Rua Alexandre Benois
+Rua Algeciras
+Rua Algemesi
+Rua Alliston
+Rua Almaden
+Rua Almansa
+Rua Ambrizette
+Rua Anatole de Baudot
+Rua André de Andrade
+Rua Antônio Aggio
+Rua Antônio Alves Vale
+Rua Antônio da Costa Barbosa
+Rua Antônio de Andrade Rebelo
+Rua Antônio Fonseca de Ramalho
+Rua Antônio Garcia Moya
+Rua Antônio Paim
+Rua Arnaldo Olinto Bastos Filho
+Rua Arte Poética
+Rua Ascencional
+Rua Aureliano Guimarães
+Rua Ângelo Antônio Pássaro
+Rua Caúna
+Rua Caetano de Odivelas
+Rua Campo Novo do Sul
+Rua Canoal
+Rua Canto do Rio Verde
+Rua Cantori
+Rua Carapoanã
+Rua Carlos Filinto
+Rua Carupina
+Rua Carvalho de Freitas
+Rua Cascado
+Rua Castelhano
+Rua Catarina Reimberg Gottsfritz
+Rua Catarinenses
+Rua Catuti
+Rua Caxé
+Rua Caxingó
+Rua Cedro do Abeté
+Rua Cemoaba
+Rua Cermik
+Rua Chapada Velha
+Rua Charles D'Aviler
+Rua Charles Spencer Chaplin
+Rua Cherpitel
+Rua Chico Gomes
+Rua Christian Berard
+Rua Cidade de Rio Pardo
+Rua Claire
+Rua Clarindo
+Rua Clóvis Luz
+Rua Clermont
+Rua Clinton
+Rua Clipperton
+Rua Clodion
+Rua Clodomiro de Oliveira
+Rua Cobalt
+Rua Colantonio
+Rua Colégio Pio XII
+Rua Conceição da Paraíba
+Rua Condomínio Manhattan
+Rua Conto Popular
+Rua Cornelisz
+Rua Coronel Francisco de Oliveira Simões
+Rua Cristóvão da Rocha
+Rua Custódio Soares
+Rua Cyro Maia de Carvalho
+Rua da Chibata
+Rua Dankmar Adler
+Rua das Goiabeiras
+Rua das Jangadas
+Rua das Taboas
+Rua David Gebara
+Rua David Pimentel
+Rua de Ligacao
+Rua Delegado Moraes Novaes
+Rua Deputado João Sussumu Hirata
+Rua Deputado Laércio Corte
+Rua Desembargador Dalmo do Valle Nogueira
+Rua Diego de Castilho
+Rua do Ângulo
+Rua do Símbolo
+Rua Dom Salomão Ferraz
+Rua Dom Tomas Costa e Lima
+Rua Domênico Perotti
+Rua Domingos Ataíde
+Rua Domingos da Rocha
+Rua Domingos Lopes da Silva
+Rua Doutor Alberto Americano
+Rua Doutor Antônio Ferreira de Castilho Filho
+Rua Doutor Antônio Spagnolo
+Rua Doutor Carlos Aldrovandi
+Rua Doutor Carlos de Oliveira Coutinho
+Rua Doutor Carlos Henrique Liberalli
+Rua Doutor Chibata Miyakoshi
+Rua Doutor Firmiano Pinto
+Rua Doutor Flávio Américo Maurano
+Rua Doutor Fonseca Brasil
+Rua Doutor Francisco Degni
+Rua Doutor Getúlio de Paula Santos
+Rua Doutor James Ferraz Alvim
+Rua Doutor João Luiz Teixeira Neto
+Rua Doutor José Augusto de Souza e Silva
+Rua Doutor José Carlos de Toledo Piza
+Rua Doutor José de Andrade Figueira
+Rua Doutor José Gustavo Busch
+Rua Doutor José Pedro de Carvalho Lima
+Rua Doutor José Pinto Antunes
+Rua Doutor Laerte Setúbal
+Rua Doutor Luiz Migliano
+Rua Doutor Mário Freire
+Rua Doutor Mário Vatanabe
+Rua Doutor Oscar de Almeida
+Rua Doutor Oscar Monteiro de Barros
+Rua Doutor Soter de Faria
+Rua Eduardo Ambuba
+Rua Eduardo Ribeiro Costa
+Rua Engenheiro Antônio Joviano
+Rua Engenheiro Wilson Houk
+Rua Ermelinda Gonçalves Vaders
+Rua Ernest Renan
+Rua Euvaldo Lodi
+Rua Fábio Lopes dos Santos Luz
+Rua Forte William
+Rua Francisco de Sales
+Rua Francisco José da Silva
+Rua Francisco José Rodrigues Neto
+Rua Francisco Pessoa
+Rua Francisco Xavier Cabral
+Rua Frederico Guarinon
+Rua Frei Duarte Jorge de Mendonça
+Rua General João Pereira de Oliveira
+Rua General Pereira da Cunha
+Rua Germano Ulbrich
+Rua Graziella Dinaro Palumbo
+Rua Gregório Lopes
+Rua Heitor de Souza Pinheiro
+Rua Heitor Portugal
+Rua Herbert Spencer
+Rua Humberto Vasquez
+Rua Iaurá
+Rua Inácio Preto de Morais
+Rua Independencia
+Rua Irapará
+Rua Iratinga
+Rua Irineu Gallo
+Rua Iriri
+Rua Isidoro José Pereira
+Rua Itabi
+Rua Itacaiúna
+Rua Itaiteva
+Rua Itajará
+Rua Itajubaquara
+Rua Italegre
+Rua Itamanari
+Rua Itamataí
+Rua Itamira
+Rua Itamotinga
+Rua Itanajé
+Rua Itanhatim
+Rua Itapacuraí
+Rua Itapaiúna
+Rua Itapaiuva
+Rua Itapanhau
+Rua Itapecoca
+Rua Itapimirum
+Rua Itapuca
+Rua Itatupã
+Rua Iubatinga
+Rua Iupeba
+Rua Ivan Fleuri Meireles
+Rua Ivorá
+Rua J. Tenreiro
+Rua Jaime Costa
+Rua Jamanari
+Rua Jandiatuba
+Rua Janga
+Rua Jayme de Almeida Paiva
+Rua Júlio Garita
+Rua Jean Aubert
+Rua Jerônimo de Campos Freire
+Rua Jeremy Bentham
+Rua Joaquim Lopes
+Rua Joaquim Nunes Teixeira
+Rua Joaquim Roseira
+Rua João Calixto
+Rua João de Araújo Cabral
+Rua João Simões de Souza
+Rua José Arzão
+Rua José Branco de Miranda
+Rua José Coimbra
+Rua José da Mota
+Rua José da Silva Ribeiro
+Rua José de Oliveira Coelho
+Rua José Domingos de Amorim
+Rua José Gonçalves
+Rua José Maria Pinto Zilli
+Rua José Ramon Urtiza
+Rua José Rodrigues Cardeal
+Rua Karl Richter
+Rua Leite de Vasconcelos
+Rua Leonardo Cerveira Varandas
+Rua Liberato Leão
+Rua Livio Edmondo Levi
+Rua Luso
+Rua Lydia Damus Maksoud
+Rua Major José Marioto Ferreira
+Rua Manoel Antônio Pinto
+Rua Manoel Antonio
+Rua Manoel Cruz
+Rua Manoel Filinto Gomes
+Rua Manoel Homem de Andrade
+Rua Marcus Pereira
+Rua Marechal Hastinfilo de Moura
+Rua Maria Antônia Ladalardo
+Rua Maria José da Conceição
+Rua Marie Nader Calfat
+Rua Matriz de Camaragibe
+Rua Maximino Macial
+Rua Melchior Giola
+Rua Miguel da Silva
+Rua Miguel Masi Neto
+Rua Nazira Carone
+Rua Nélson Gama de Oliveira
+Rua Nevada
+Rua Nicola Rollo
+Rua Oagy Kalile
+Rua Olavo Leite
+Rua Omar Simão Racy
+Rua Pasquale Gallupi
+Rua Paulo III
+Rua Paulo IV
+Rua Pedro Gomes da Costa
+Rua Pio II
+Rua Pio IV
+Rua Pio IX
+Rua Pio V
+Rua Pio VII
+Rua Professor Alexandre Correia
+Rua Professor Benedito Montenegro
+Rua Professor Hilário Veiga de Carvalho
+Rua Professor Júlio de Oliveira
+Rua Professor Raul Votta
+Rua Quarenta e Sete(pedestre)
+Rua Quatro
+Rua Rafael Carrozzo
+Rua Raimundo Simão de Souza
+Rua Ribeirão da Prata
+Rua Ribeiro Lisboa
+Rua Ricardo Avenarius
+Rua Rudolf Lotze
+Rua Samia Haddad
+Rua São João do Pernambuco
+Rua São Pedro Fourier
+Rua Sebastiana da Cunha Bueno
+Rua Silva Xavier
+Rua Silveira Sampaio
+Rua Silvio Delmar Hollenbach
+Rua Silvio Tramontano
+Rua Sophia Ambuba
+Rua Tenente João Batista Prado
+Rua Treze de Maio
+Rua Trinta e Um de Março
+Rua Tupanciretã
+Rua Ventura Ladalardo
+Rua Vinte e Quatro
+Rua Viriato Correia
+Rua Wilson

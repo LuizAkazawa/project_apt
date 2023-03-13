@@ -1,0 +1,192 @@
+Avenida Alexandre Mackenzie
+Avenida Antônio de Souza Noschese
+Avenida Autonomistas
+Avenida Bolonha
+Avenida Corifeu de Azevedo Marques
+Avenida dos Autonomistas
+Avenida Doutor Francisco de Paula Vicente de Azevedo
+Avenida Dracena
+Avenida Engenheiro Billings
+Avenida Franz Voegeli
+Avenida General Mac Arthur
+Avenida General Vidal
+Avenida Gonçalo Madeira
+Avenida Jaguaré
+Avenida José Maria da Silva
+Avenida Kenkiti Simomoto
+Avenida Leão Machado
+Avenida Marechal Mário Guedes
+Avenida Miguel Frias e Vasconcelos
+Avenida Onófrio Milano
+Avenida Osasco
+Avenida Presidente Altino
+Avenida Torres de Oliveira
+Avenida Venceslau de Queirós
+Rua 215
+Rua 45
+Rua 63
+Rua 64
+Rua 65
+Rua 66
+Rua Abel Botelho
+Rua Adelina Gasparian
+Rua Adolphe Cals
+Rua Agostinho Costa
+Rua Agostinho Cretella
+Rua Aguanos
+Rua Aida Lang Bortolato
+Rua Alarico Franco Caiubi
+Rua Albert Cuyp
+Rua Alexandre Calame
+Rua Alexandrita
+Rua Alfredo Pinheiro
+Rua Alzira da Silva Monteiro
+Rua Andrea Bolgi
+Rua Antônio de Azevedo Filho
+Rua Araicás
+Rua Arão Adler
+Rua Argirito
+Rua Armando Mota
+Rua Artur Pinto da Rocha
+Rua Artur Soares de Pinho
+Rua Assum Preto
+Rua Ateraris
+Rua Aureo de Almeida Camargo
+Rua Autas
+Rua Ângelo Menoncello
+Rua Barão de Antonina
+Rua Barcelona
+Rua Barra Longa
+Rua Bartolomeu de Ribeira
+Rua Bem-Te-Vi
+Rua Benedito Flávio da Silveira
+Rua Benjamin Aluani
+Rua Brasília Marcondes Buarque
+Rua Caetanópolis
+Rua Campesina
+Rua Candomba
+Rua Cangati
+Rua Canto da Volta
+Rua Canto Zumbi
+Rua Carcará
+Rua Carlos Picha
+Rua Catalunha
+Rua Cândido de Oliveira
+Rua Cônego José Marinho
+Rua Cecílio José Carneiro
+Rua Chafariz
+Rua Comendador Carmine Sérgio
+Rua Cono Matteo
+Rua Crotolaria
+Rua Custódio Sampaio Pereira
+Rua Desembargador Altenfelder Silva
+Rua Desembargador José Antônio Nogueira
+Rua Diogo Pires
+Rua Dom João Rondom
+Rua Domingos Mazzeu
+Rua Dona Okura Fujiwara
+Rua Doutor Agenor Fernandes Barbosa
+Rua Doutor Aluisio Fagundes
+Rua Doutor Augusto Meirelles Reis Neto
+Rua Doutor Clementino Canabrava Filho
+Rua Doutor Joel Lagos
+Rua Doutor José Benedito de Moraes Leme
+Rua Doutor Milton de Souza Meirelles
+Rua Doutor Nilo Gomes Dias
+Rua Eduardo da Silva Magalhães
+Rua Egídia Peluso Franchini
+Rua Elias Francisco Miguel
+Rua Emília Galante Squilace
+Rua Engenheiro Vítor Freire
+Rua Ernesto Zuanella
+Rua Eugênio Pinto Moreira
+Rua Eulo Maroni
+Rua Eva Terpins
+Rua Floresto Bandecchi
+Rua Francisco Ferrari
+Rua Francisco Pedro do Amaral
+Rua Francisco Ribeiro Carril
+Rua Frei Paulo de Sorocaba
+Rua Fritz Lang
+Rua Fujiwara Hisato
+Rua Guapo
+Rua Guimarães de Almeida
+Rua Guimarães Rosa
+Rua Haroldo Anhaia Leite
+Rua Henning Boilesen
+Rua Henri Casimir Cabanie
+Rua Henrique Terpins
+Rua Heraklit
+Rua Homoré Daumler
+Rua Irede de Matos Alonso
+Rua Irmã Glóris Maria
+Rua Irmã Pia
+Rua Jacob Roganti
+Rua Jaguaré
+Rua Jerônimo A. Silveira
+Rua João Bacelar
+Rua José Azzar
+Rua José Cabral Pereira
+Rua José Ferreira Keffer
+Rua José Maria Ferreira de Castro
+Rua José Pereira de Carvalho
+Rua Lealdade
+Rua Lorenzo Ghiberti
+Rua Luís Noveleto
+Rua Luís Toschi
+Rua Luis Squilace
+Rua Maestro Ítalo Izzo
+Rua Manoel José da Cunha
+Rua Manuel de Saldanha
+Rua Maria Ivete Grube Adamsky
+Rua Maria Rissio Mendes
+Rua Maria Tereza Farabulini Rodrigues
+Rua Marselha
+Rua Menotti Bini
+Rua Monsenhor Victorio João Pavesio
+Rua Muxipana
+Rua Nair Corrêa Buarque
+Rua Narimatsu Hiroshi
+Rua Nova Monte Verde
+Rua Padre Caresia
+Rua Paraju
+Rua Paranaucu
+Rua Parnamirim
+Rua Peixe Boi
+Rua Pirajuia
+Rua Pirauba
+Rua Porto da Capela
+Rua Professor Carlos Benvenutti Filho
+Rua Professor Fausto Guerner
+Rua Professor Fernando de Azevedo
+Rua Professor Jayme A. de A. Cavalcanti
+Rua Professor Moacir de Freitas Amorin
+Rua Quatro de Dezembro
+Rua Quero Quero
+Rua Quica D'água
+Rua Quisambu
+Rua Raduan Dabus
+Rua Renzo Borghi
+Rua Rolândia
+Rua Rouxinol
+Rua Sabiá Branco
+Rua Salatiel de Campos
+Rua Sambaetiba
+Rua Santa Engrácia
+Rua Santa Leonor
+Rua Santa Ubaldesca
+Rua Santo Eurílio
+Rua Sarandira
+Rua São Fidelis
+Rua São Romão
+Rua Silvino dos Santos
+Rua Sofia Bernardi
+Rua Teresa Ruiz
+Rua Tiagem
+Rua Três Arapongas
+Rua Tucano
+Rua Tufic Helu
+Rua Tupuju
+Rua Umbará
+Rua Vicente Ferreira
+Rua Wilson Carlos Rodrigues

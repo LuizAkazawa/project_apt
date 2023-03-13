@@ -1,0 +1,274 @@
+Avenida da Invernada
+Avenida Dória
+Avenida Doutor Abelardo Vergueiro César
+Avenida Doutor Lino de Moraes Leme
+Avenida Hélio Lobo
+Avenida Jônia
+Avenida João Pedro Cardoso
+Avenida Jornalista Roberto Marinho
+Avenida Mascote
+Avenida Pedro Bueno
+Avenida Professor Rubens Gomes de Sousa
+Avenida Professor Vicente Rao
+Avenida Roque Petroni Júnior
+Avenida Santa Catarina
+Avenida Santo Amaro
+Avenida Vereador João de Luca
+Avenida Vereador José Diniz
+Avenida Washington Luís
+Rua Açatunga
+Rua Abatirá
+Rua Abraão Buazar
+Rua Acalifas
+Rua Acapurana
+Rua Acácio Vasconcelos
+Rua Acruás
+Rua Afonso Bandeira de Melo
+Rua Agrovila
+Rua Ai-Pixuna
+Rua Aipuá
+Rua Ajururés
+Rua Além-mar
+Rua Alberto Gebara
+Rua Albuquerque Souza Muniz
+Rua Almeida Ferraz
+Rua Alsácia
+Rua Ambrósio Pereira
+Rua Anduzeiro
+Rua Anesio Martins de Siqueira
+Rua Angélica de Jesus
+Rua Angelo Mendes Almeida
+Rua Anglesita
+Rua Antônio Comparato
+Rua Antônio de Macedo Soares
+Rua Antônio José de Freitas
+Rua Assis Brasil
+Rua Augusto Ribeiro Filho
+Rua Álvaro Luis Roberto de Assunção
+Rua Álvaro Nunes
+Rua Ática
+Rua Ângelo Luís Salto
+Rua Édison
+Rua Barão de Aguiar
+Rua Barão de Bela Vista
+Rua Barão de Goiânia
+Rua Barão de Mambucaba
+Rua Barão de Santa Branca
+Rua Barão de Suruí
+Rua Barão de Vallim
+Rua Barão do Rêgo Barros
+Rua Barão do Sabará
+Rua Barão do Triunfo
+Rua Barão Jaceguai
+Rua Benjamim Costa
+Rua Benjamin Hunnicutt
+Rua Bernardino de Campos
+Rua Boavas
+Rua Bonifácio de Abreu
+Rua Brás de Arzão
+Rua Brigadeiro Gama Barcelos
+Rua Brigadeiro Godofredo Vidal
+Rua Brunilda
+Rua Camanducaia
+Rua Capibaribe
+Rua Carlo Prina
+Rua Carlos Francisco de Paula
+Rua Carlos Pinto Alves
+Rua Casarias
+Rua Casimiro de Abreu
+Rua Cataguás
+Rua Cândido Penso
+Rua Cônsul Silva Neves
+Rua Charles Murray
+Rua Cláudio Mendonça
+Rua Cleide
+Rua Comendador Eduardo Saccab
+Rua Comendador Noberto Jorge
+Rua Comendador Orlando Stevaux
+Rua Conceição Marcondes Silva
+Rua Conde de Ipanema
+Rua Conde de La Hure
+Rua Conde de Porto Alegre
+Rua Conde Ernesto Carneiro
+Rua Condessa do Pinhal
+Rua Confiteor
+Rua Constantino de Sousa
+Rua Corinto de Toledo
+Rua Cornélio Schimidt
+Rua Coronel Macedo
+Rua Coronel Tobias Coelho
+Rua Cristóvão Pereira
+Rua da Prata
+Rua Daniel Kidder
+Rua Demóstenes
+Rua Demetre Stravis Dagres
+Rua Derval
+Rua Desembargador Alípio Bastos
+Rua do Méson
+Rua do Níquel
+Rua do Radium
+Rua Dom Manuel
+Rua Dom Otávio de Miranda
+Rua Domingos Lopes
+Rua dos Cafezais
+Rua dos Lavaris
+Rua Doutor Ademar Queirós de Morais
+Rua Doutor Domingos de Silos
+Rua Doutor Gentil Leite Martins
+Rua Doutor Jesuíno Maciel
+Rua Doutor João Pedro Perotti
+Rua Doutor José Bento Ribeiro Dantas
+Rua Doutor Joviano Telles
+Rua Doutor Mário Mourão
+Rua Doutor Oscavo de Paula e Silva
+Rua Doutor Silvino Canúto Abreu
+Rua Doutor Vladimir dos Santos Melo
+Rua Eduardo de Magalhães
+Rua Eleutério
+Rua Embaixador Coelho de Almeida
+Rua Emboabas
+Rua Engenheiro Aldemar de Mello Franco
+Rua Engenheiro Luís Antônio Tambasco
+Rua Epiro
+Rua Estácio Coimbra
+Rua Estela Marina
+Rua Estevão Baião
+Rua Fausto Delduque
+Rua Félix de Sousa
+Rua Fernando Reis
+Rua Francisco Antônio Gonçalves
+Rua Gabrielle D'Annunzio
+Rua Galileu
+Rua Geórgia
+Rua General Dantas Barreto
+Rua General Pantaleao Teles
+Rua General Panteleão Teles
+Rua Georgina de Albuquerque
+Rua Getúlio Augusto de Paiva
+Rua Gil Eanes
+Rua Guaninás
+Rua Guararapes
+Rua Guedes Galvão
+Rua Guido Frederico João Pabst
+Rua Guilherme Rehder
+Rua Harold Paranhos
+Rua Haroldo Paranhos
+Rua Helade
+Rua Henrique Brammer Neto
+Rua Henrique Fausto Lancelotti
+Rua Hermilo Borba Filho
+Rua Hideo Suguiyama
+Rua Iguaçu
+Rua Inapitinga
+Rua Ipiranga
+Rua Itagyba Santiago
+Rua Itamaraty Feitosa Fujie Nitta
+Rua Itamaraty Feitosa Martins
+Rua Jacatirão
+Rua Júlio Rua Pérez
+Rua Joaquim Nabuco
+Rua João Álvares Soares
+Rua João de Lery
+Rua João de Sousa Dias
+Rua Jorge N. Haidar
+Rua José Batista Pereira
+Rua José dos Santos Júnior
+Rua José Garbuio
+Rua José Mesa Campos
+Rua Laércio Neves
+Rua Lacônia
+Rua Lacedemonia
+Rua Laplace
+Rua Lazara da Rocha Crepaldi
+Rua Leal de Souza
+Rua Lousa
+Rua Luciano Carneiro
+Rua Madre Angelina
+Rua Maratona
+Rua Marília de Dirceu
+Rua Maria Martins
+Rua Maria Perez Auge
+Rua Marques Perdigão
+Rua Mário Faustino
+Rua Ministro Guimarães Natal
+Rua Miron Clark
+Rua Mogi das Cruzes
+Rua Monsenhor Antônio Pepe
+Rua Monsenhor Naline
+Rua Morais de Barros
+Rua Moreira Cardoso
+Rua Nhu-Guaçú
+Rua Nicolau da Rocha Vita
+Rua Nicolau Zavros
+Rua Noel Torezin
+Rua Olavo Santos Bicudo
+Rua Orlando Murgel
+Rua Otávio Tarquínio de Sousa
+Rua Otto Blumenau
+Rua Padre Abreu e Lima
+Rua Padre Arnaldo Pereira
+Rua Padre Gualandi
+Rua Padre Leonardo
+Rua Padre Vicente Hackel
+Rua Paiaguás
+Rua Paião
+Rua Palacete das Águias
+Rua Palestina
+Rua Palmares
+Rua Panapoi
+Rua Pascal
+Rua Pergentino de Freitas
+Rua Pindaúva
+Rua Pirandello
+Rua Plutônio
+Rua Poveiras
+Rua Princesa Isabel
+Rua Professor Castro Soromenho
+Rua Professor Flinto Guerra
+Rua Professor Henrique Neves Lefevre
+Rua Professor João Batista de Castro
+Rua Professor Miguel Maurício da Rocha
+Rua Professor Sebastião Hermeto Junior
+Rua Professora Heloísa Carneiro
+Rua Rafael Iório
+Rua Renascença
+Rua República do Iraque
+Rua Ribeiroles
+Rua Rita Joana de Sousa
+Rua Rodes
+Rua Rosario Cantazaro
+Rua Rugendas
+Rua Sampaio de Barros
+Rua Sapoti
+Rua Sargento José Roque da Silva
+Rua Savério Fittipaldi
+Rua Sônia Ribeiro
+Rua Sebastião Gomes
+Rua Sebastião Pais
+Rua Selma
+Rua Simões Pinto
+Rua Stefan Zweig
+Rua Sul
+Rua Tamoios
+Rua Tapes
+Rua Tebas
+Rua Tejereba
+Rua Tibiriçá
+Rua Tobias Monteiro
+Rua Tomé Portes
+Rua Ugo Taddei
+Rua Valter Fontenelle Ribeiro
+Rua Vapabuçu
+Rua Vapabussu
+Rua Válter Fontana
+Rua Verinha Darcy
+Rua Viaza
+Rua Vicente Leporace
+Rua Vieira de Morais
+Rua Visconde de Aguiar Toledo
+Rua Visconde de Castro
+Rua Visconde de Maranguape
+Rua Visconde de Ourém
+Rua Volta Redonda
+Rua Xavier Gouveia
+Rua Zacarias de Góis

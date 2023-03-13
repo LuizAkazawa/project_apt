@@ -1,0 +1,299 @@
+Avenida Angelina
+Avenida Conceição
+Avenida General Ataliba Leonel
+Avenida Guilherme
+Avenida Guilherme Cotching
+Avenida Júlio Buono
+Avenida Joaquina Ramalho
+Avenida Luiz Dumont Villares
+Avenida Morvan Dias de Figueiredo 
+Avenida Moysés Roysen
+Avenida Nadir Dias de Figueiredo
+Avenida Otto Baumgart
+Avenida Zaki Narchi
+Rua 10 de Setembro
+Rua Abaetezinho
+Rua Abílio Martins
+Rua Adelino Bertoli
+Rua Aguacerita
+Rua Alcântara
+Rua Alexandre Aguiar
+Rua Alfredo da Silva
+Rua Alfredo Mário Pizzoti
+Rua Amadeu
+Rua Amadeu dos Santos Reigota
+Rua Amanajés
+Rua Amazonas da Silva
+Rua Amândio Monteiro
+Rua Ambauba
+Rua Ana Placido
+Rua Anacleto
+Rua Aníbal Falcão
+Rua Angelina Pena Botto
+Rua Angelina Pizzoti
+Rua Anna Papini Guaranha
+Rua Anselmo Farabulini
+Rua Antônio Augusto de Sousa
+Rua Antônio Guimarães
+Rua Antônio José Garcia
+Rua Antônio Magalhães
+Rua Antônio Oliveira Braga
+Rua Antônio Pinto de Oliveira
+Rua Antônio Pontes
+Rua Apuae Mirim
+Rua Apuizinho
+Rua Arruda Ferreira
+Rua Articura
+Rua Aruaque
+Rua Auguste Rodin
+Rua Aureliano Pizzoti
+Rua Aurora de Oliveira
+Rua Axicara
+Rua Azir Antônio Salton
+Rua Água Turva
+Rua Élvio Mário Cinquegrana
+Rua Índio Barnabé
+Rua Ítala
+Rua Barbados
+Rua Bígame
+Rua Belarmino Matos
+Rua Belchior de Ordas
+Rua Benedita
+Rua Bento Capinam
+Rua Botumirim
+Rua Caçador
+Rua Cachoeira do Arari
+Rua Canhoneira Belmonte
+Rua Capitão Guedes de Sousa
+Rua Capitão Lázaro
+Rua Capitão Luís Ramos
+Rua Capitão Sérvio Rodrigues Caldas
+Rua Caraná
+Rua Carapocaia
+Rua Carmina Pasqui
+Rua Carminé Gaeta
+Rua Catapará
+Rua Catarina Camacho
+Rua Cássio de Almeida
+Rua Cônego Luís Gonzaga Biazi
+Rua Cesário Lange
+Rua Chico Pontes
+Rua Cipriano Duarte
+Rua Claudino Inácio
+Rua Claudionor Barbieri
+Rua Clóvis Rosa
+Rua Corine Antunes caragarza
+Rua Coronel Antônio Ferraz
+Rua Coronel Francisco Peixoto
+Rua Coronel Jordão
+Rua Coronel Marcílio Franco
+Rua Coronel Marques Ribeiro
+Rua Coronel Sílvio Marino
+Rua Cristóvão Lins
+Rua Cristo Operário
+Rua Cubilai
+Rua Curuçá
+Rua da Coroa
+Rua da Curva
+Rua Damião Alves
+Rua Daniel Ventura
+Rua das Palmas
+Rua Deputado Vicente Penido
+Rua Desembargador Urbano Marcondes
+Rua Dias de Aguiar
+Rua Diego Zavaleta
+Rua Dilermando Dias dos Santos
+Rua Dirce
+Rua Diva da Silva
+Rua do Canal
+Rua do Imperador
+Rua Dona Santa Veloso
+Rua dos Camarés
+Rua dos Espanhóis
+Rua dos Machados
+Rua dos Náuticos
+Rua Doutor Arthur Nadyr de Moraes Goyano
+Rua Doze de Setembro
+Rua Edgar
+Rua Eduardo Espínola Filho
+Rua Eduardo Leopoldo
+Rua Elísio Leal
+Rua Eleonor
+Rua Elisa Pizzoti
+Rua Emilio Rodrigues
+Rua Engenheiro Ciampiti
+Rua Erasmo José de Moraes
+Rua Esmeraldino Cavalcânti Torres
+Rua Estefânia Louro
+Rua Euchário Rebouças de Carvalho
+Rua Eugênio de Freitas
+Rua Everaldo Lima Aragão
+Rua Fernandes Costa Zacharias
+Rua Filipe de Lorenzo
+Rua Fragata Amazonas
+Rua Francisco Duarte
+Rua Frei Mariano Veloso
+Rua Gabriel Marques
+Rua Gabriel Orefice
+Rua Gabriel Orefire
+Rua Galatea
+Rua Góis de Araújo
+Rua George Fox
+Rua Geraldo Evaristo Marcondes
+Rua Gil Amora
+Rua Gipóia
+Rua Girolamo Belli
+Rua Goaquinés
+Rua Guaipacare
+Rua Guaneí
+Rua Guaraçai
+Rua Guaracininga
+Rua Guatemozin
+Rua Gurinhém
+Rua Gustavo
+Rua Henrique Braglia
+Rua Henrique Felipe da Costa
+Rua Henrique Mazzei
+Rua Homem da Costa
+Rua Hugo Bertazzon
+Rua Iapucanin
+Rua Ibéria
+Rua Ida da Silva
+Rua Iracema de Alencar
+Rua Isaías Malentechi
+Rua Ité
+Rua Jacuna
+Rua Jaguaretama
+Rua Jair Moraes
+Rua Joaquina de Jesus
+Rua João Batista Alves da Silva
+Rua João Veloso Filho
+Rua João Ventura Batista
+Rua José Balta
+Rua José Bernardo Pinto
+Rua José Bueno
+Rua José de Campos Melo
+Rua José Duran
+Rua José Gonçalves Gomide
+Rua José Henrique
+Rua José Nunes de Sousa
+Rua José Pereira Jorge
+Rua José Régio
+Rua José Ventura
+Rua Josefina Romeu
+Rua Jurumirim
+Rua Lagoa Panema
+Rua Laureanos
+Rua Laurindo Sbampato
+Rua Lazara da Silva Jimenes
+Rua Leandro Ferreira
+Rua Leonaldo Estandislau Meisikas
+Rua Leonor Calles Vicente
+Rua Lina Pizzoti
+Rua Lontra
+Rua Luís Augusto de Carvalho
+Rua Luís Fláquer
+Rua Luís Taváres
+Rua Luíz Matheus Alpiovezza
+Rua Lucas Alber
+Rua Lucas de Freitas Azevedo
+Rua Luciano Broinizzi
+Rua Luis Bento Alves
+Rua Luiz Carlos de Castro
+Rua Malie Brenner
+Rua Manajeru
+Rua Mandaguari
+Rua Mangaíba
+Rua Mangalô
+Rua Manoel de Deus
+Rua Manoel Silvino Bandeira Melo
+Rua Manuel de Almeida
+Rua Manuel Durães
+Rua Maquinista Trigo
+Rua Marcelo de Menezes
+Rua Maria Cândida
+Rua Marieta da Silva
+Rua Mario de Souza
+Rua Marroio
+Rua Márili
+Rua Mário Pinheiro
+Rua Miguel Mentem
+Rua Miguel Soares Ferreira Júnior
+Rua Milton
+Rua Milton Ribeiro
+Rua Motangua
+Rua Mozelos
+Rua Munhoz
+Rua Nabi Mansur Sadek
+Rua Namura
+Rua Nefele
+Rua Nelson
+Rua Nelson de Moraes Lopes
+Rua Nilo Luis Mazzei
+Rua Norivaldo Aléssio Cueva
+Rua Nossa Senhora Operária
+Rua Octávio Ribeiro de Carvalho
+Rua Ofion
+Rua Orlando Ribeiro Dantas
+Rua Padre Caldas Barbosa
+Rua Padre Lehmman
+Rua Palene
+Rua Palméia
+Rua Palmumas
+Rua Pancas
+Rua Paranhos Pederneiras
+Rua Particular Lourdes Ferreira de Andrade
+Rua Pascoal Giampaoli
+Rua Paulina Gellermann
+Rua Paulo de Avelar
+Rua Paulo Hallage
+Rua Paulo Mallet
+Rua Pedra da Gale
+Rua Pedra Sabão
+Rua Pedranópolis
+Rua Pedro Bortolo
+Rua Pedro Lembi
+Rua Pedro Setti
+Rua Petume
+Rua Piatã
+Rua Pirita
+Rua Professor Alberto Levi
+Rua Professor Piquet Carneiro
+Rua Professora Maria José Barone Fernandes
+Rua Quedas
+Rua Racati
+Rua Raimundo Carrut
+Rua Roberto Caetano Maria Lenci
+Rua Roberto Gomes
+Rua Rogaciano
+Rua Rosalina Alves
+Rua Rudolf Urschei
+Rua Sacalina
+Rua Salvador Romeu
+Rua Santa Leocádia
+Rua Santo Anselmo
+Rua Santo Basileu
+Rua Santo Honorato
+Rua Santo Stefano
+Rua Sapienza
+Rua Sarah Velardo Velloso
+Rua Sargento Rafael Gurfiel
+Rua São Gregório
+Rua São Leôncio
+Rua São Quirino
+Rua Sílvio Rodini(passos)
+Rua Sebastião Arruda
+Rua Serafim de Carvalho
+Rua Simão Jorge
+Rua Solange silva
+Rua Tancredo
+Rua Tapiraí
+Rua Taquara Branca
+Rua Tenente Agenor Soares
+Rua Theália
+Rua Verona
+Rua Vital de Oliveira
+Rua Vitório Mazzei
+Rua Waldemar Pereira de Carvalho
+Rua Wanzio
+Rua Zulmira

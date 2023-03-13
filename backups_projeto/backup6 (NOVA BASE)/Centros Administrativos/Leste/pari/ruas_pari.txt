@@ -1,0 +1,92 @@
+Avenida Bom Jardim
+Avenida Carlos de Campos
+Avenida Cruzeiro do Sul
+Avenida Pedroso da Silveira
+Avenida Vautier
+Rua Aguaçai
+Rua Alexandrino Pedroso
+Rua Allan Kardec
+Rua Antônio de Andrade
+Rua Aparecida
+Rua Araguaia
+Rua Azurita
+Rua Barão de Ladário
+Rua Bresser
+Rua Cachoeira
+Rua Camilo João Christófaro
+Rua Camomil
+Rua Canindé
+Rua Capitão Mor Passos
+Rua Carnot
+Rua Casemiro de Abreu
+Rua Chambivas
+Rua Comendador Nestor Pereira
+Rua Conselheiro Dantas
+Rua Coronel Emídio Piedade
+Rua Coronel Morais
+Rua Coronel Silva Gomes
+Rua das Olarias Coronel Camilo Cristófaro Martins
+Rua Diogo de Lara
+Rua Doutor Guimademar Leingruber
+Rua Doutor Miguel Paulo Capalbo
+Rua Doutor Ornelas
+Rua Doutor Pachêco e Silva
+Rua Doutor Virgílio do Nascimento
+Rua Faustino Ribeiro Leite
+Rua Felisberto de Carvalho
+Rua Frei Pacífico Wagner
+Rua Godói Preto
+Rua Guarantã
+Rua Gustavo Bresser
+Rua Hannemann
+Rua Hercilio Luz
+Rua Imbaúba
+Rua Indá
+Rua Itaqui
+Rua Iturama
+Rua Júlia Bresser
+Rua Joaquim Carlos
+Rua João Boemer
+Rua João Teodoro
+Rua José Joaquim Moredo(trunk_link)
+Rua Juruá
+Rua Manoel Sobral
+Rua Manuel Antônio de Almeida
+Rua Maria Marcolina
+Rua Mendes Gonçalves
+Rua Mendes Júnior
+Rua Miller
+Rua Ministro Francisco Campos
+Rua Monsenhor Abreu
+Rua Monsenhor Maximiano Leite
+Rua Morro Grande
+Rua Padre Lima
+Rua Padre Taddei
+Rua Padre Vieira
+Rua Paganini
+Rua Paraíba
+Rua Pardal
+Rua Pascoal Malatesta
+Rua Pascoal Ranieri
+Rua Paulino Guimarães
+Rua Paulo Andrighetti
+Rua Pedro Vicente
+Rua Piaçagüera
+Rua Porto Seguro
+Rua Professor José Feliciano de Oliveira
+Rua Quixelos
+Rua Rio Bonito
+Rua Rio Vermelho
+Rua Rodovalho da Fonseca
+Rua Rodrigues dos Santos
+Rua Sacramento
+Rua Santa Rita
+Rua São Biagio
+Rua São Pedro do Turvo
+Rua Silva Teles
+Rua Siqueira Afonso
+Rua Teresa Francisca Martin
+Rua Tiers
+Rua Vítor Hugo
+Rua Xandé
+Rua Zilda Macedo

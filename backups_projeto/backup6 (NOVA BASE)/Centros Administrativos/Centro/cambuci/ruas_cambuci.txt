@@ -1,0 +1,115 @@
+Avenida Arno
+Avenida Dom Pedro I
+Avenida Lacerda Franco
+Avenida Lins de Vasconcelos
+Avenida Presidente Wilson
+Rua Albuquerque Maranhão
+Rua Alexandre Levi
+Rua Alexandrino da Silveira Bueno
+Rua Almirante Pestana
+Rua Alves Ribeiro
+Rua Amarante
+Rua Andrade Reis
+Rua Anhatomirim
+Rua Antônio Augusto Covelho
+Rua Antônio Garcia
+Rua Antônio Parreiras
+Rua Antônio Tavares
+Rua Ararás
+Rua Backer
+Rua Barão de Jaguara
+Rua Basílio da Cunha
+Rua Botupuca
+Rua Canavieiras
+Rua Carmo do Rio Claro
+Rua Cavalheiro Afonso Nicoli
+Rua Cesário Ramalho
+Rua Clímaco Barbosa
+Rua Clodomiro Pereira
+Rua Comendador Bento Pereira
+Rua Conselheiro João Alfredo
+Rua Coronel Cintra
+Rua Coronel Diogo
+Rua Coronel João Dente
+Rua da Independência
+Rua da Mooca
+Rua Diogo de Araújo
+Rua do Lavapés
+Rua do Lirismo
+Rua Dom Bosco
+Rua Dom Duarte Leopoldo
+Rua Dom Romualdo de Seixas
+Rua Dona Ana Neri
+Rua dos Alpes
+Rua dos Pescadores
+Rua Doutor José Maria de Azevedo
+Rua Doutor Pedro Severiano
+Rua Doutor Valentim Amaral
+Rua Eiras Garcia
+Rua Engenheiro Prudente
+Rua Erculânia
+Rua Estella Salzo
+Rua Eulália Assunção
+Rua Félix Pola
+Rua Francois Coty
+Rua Freire da Silva
+Rua Gama Cerqueira
+Rua General Espozel Júnior
+Rua Guimarães Peixoto
+Rua Heitor Peixoto
+Rua Henrique Coelho
+Rua Hermínio Lemos
+Rua Ibiruba
+Rua Ida
+Rua Inglês de Souza
+Rua Italia Fausto
+Rua Jackson Figueiredo
+Rua Jerônimo de Albuquerque
+Rua José Bento
+Rua Justo Azambuja
+Rua Leopoldo Miguez
+Rua Lins
+Rua Luís Gama
+Rua Luzia Bontempo Bonomo
+Rua Manuel Peixoto da Mota
+Rua Maria Vidotto Lorenzatto
+Rua Mesquita
+Rua Nalfer Nasser
+Rua Nicolau Ancona Lopez
+Rua Nossa Senhora de Lourdes
+Rua Odorico Mendes
+Rua Oliveira Lima
+Rua Orlando Teixeira(pedestre)
+Rua Oscar Horta
+Rua Oswaldo de Luca
+Rua Otto de Alencar
+Rua Ouvidor Portugal
+Rua Pedro Francisco Viana
+Rua Piedade
+Rua Piquerobi
+Rua Presidente Almeida Couto
+Rua Presidente Barão de Guajara
+Rua Presidente Batista Pereira
+Rua Presidente Costa Pereira
+Rua Presidente Costa Pinto
+Rua Presidente Soares Brandão
+Rua Professor Arthur do Prado Dantas
+Rua Professor Camilo Bergenson
+Rua Professor Demóstenes Batista Figueira Marqués
+Rua Professor Paschoal Pacchi
+Rua Rafaele Bonomo
+Rua Robertson
+Rua Rolf Laubé
+Rua San Genaro
+Rua Santo Hermeto
+Rua São João Del Rei
+Rua Serra de Paracaina
+Rua Silveira Campos
+Rua Silveira da Mota
+Rua Simão Dias da Fonseca
+Rua Stéfano
+Rua Teixeira Mendes
+Rua Teodureto Souto
+Rua Vicente de Carvalho
+Rua Vieira Ravasco
+Rua Wandenkolk

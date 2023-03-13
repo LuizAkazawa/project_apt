@@ -1,0 +1,133 @@
+Avenida Angélica
+Avenida Arnolfo Azevedo
+Avenida Doutor Arnaldo
+Avenida Duque de Caxias
+Avenida Higienópolis
+Avenida Ipiranga
+Avenida Pacaembu
+Avenida Paulista
+Avenida Rebouças
+Avenida São Luís
+Rua Alagoas
+Rua Almirante Pereira Guimarães
+Rua Amaral Gurgel
+Rua Angatuba
+Rua Antônio Carlos
+Rua Araújo
+Rua Aracaju
+Rua Armando Alvares Penteado
+Rua Armando Penteado
+Rua Augusta
+Rua Aureliano Coutinho
+Rua Aurora
+Rua Avanhandava
+Rua Avaré
+Rua Bahia
+Rua Barão de Bocaina
+Rua Barão de Tatuí
+Rua Bauru
+Rua Bela Cintra
+Rua Bento Freitas
+Rua Buri
+Rua Caio Prado
+Rua Capivari
+Rua Catanduva
+Rua Cássio Martins Vilaça
+Rua Ceará
+Rua Conselheiro Brotero
+Rua Coronel José Eusébio
+Rua Costa
+Rua Cunha Horta
+Rua da Consolação
+Rua das Mangabeiras
+Rua Deputado Fábio Aranha
+Rua Deputado José Armando Affonseca
+Rua Desembargador Paulo Passaláqua
+Rua do Arouche
+Rua Dona Antônia de Queirós
+Rua Dona Teresa
+Rua Dona Veridiana
+Rua Doutor Acácio Nogueira
+Rua Doutor Albuquerque Lins
+Rua Doutor Cesário Mota Júnior
+Rua Doutor José Pereira de Queirós
+Rua Doutor Teodoro Baima
+Rua Doutor Veiga Filho
+Rua Doutor Vila Nova
+Rua Engenheiro Edgar Egídio de Sousa
+Rua Epitácio Pessoa
+Rua Ferdinando Laboriau
+Rua Fernando de Albuquerque
+Rua Flávio Queirós Morais
+Rua Frei Caneca
+Rua General Jardim
+Rua Goiás
+Rua Gravataí
+Rua Gustavo Teixeira
+Rua Haddock Lobo
+Rua Heitor de Morais
+Rua Itabirito
+Rua Itacaranha
+Rua Itacolomi
+Rua Itaetê
+Rua Itaguaba
+Rua Itajaçu
+Rua Itajobi
+Rua Itajubá
+Rua Itambé
+Rua Itapemirim
+Rua Itaperuna
+Rua Itapitangui
+Rua Itaquera
+Rua Itatiara
+Rua Itatiba
+Rua Itatinga
+Rua Itápolis
+Rua Jaguaribe
+Rua João Florêncio
+Rua João Guimarães Rosa
+Rua José Paulo Montovan Freire
+Rua Luís Coelho
+Rua Maceió
+Rua Major Natanael
+Rua Major Sertório
+Rua Maranhão
+Rua Marcelino Ritter
+Rua Maria Antônia
+Rua Maria Borba
+Rua Mario de Melo
+Rua Marquês de Itu
+Rua Marquês de Paranaguá
+Rua Martim Francisco
+Rua Martinico Prado
+Rua Matias Aires
+Rua Mato Grosso
+Rua Minas Gerais
+Rua Modigliani
+Rua Monsenhor Alberto Pequeno
+Rua Morro Verde
+Rua Novo Horizonte
+Rua Pará
+Rua Pedro Taques
+Rua Penápolis
+Rua Pernambuco
+Rua Piauí
+Rua Principado de Mônaco
+Rua Professor Ernest Marcus
+Rua Rego Freitas
+Rua Rio de Janeiro
+Rua Sabará
+Rua Santa Isabel
+Rua Sílvio Portugal
+Rua Sebastião Pereira
+Rua Senador João Lira
+Rua Senador Pádua Salles
+Rua Sergipe
+Rua Teodoro Ramos
+Rua Tinhorão
+Rua Tupi
+Rua Ubatuba
+Rua Unai
+Rua Vinícius de Moraes
+Rua Visconde de Ouro Preto
+Rua Zequinha de Abreu

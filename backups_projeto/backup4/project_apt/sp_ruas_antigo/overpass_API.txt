@@ -1,0 +1,4 @@
+[out:json];
+area[name = "Consolação"];
+(way(area)["highway"~"^(motorway|trunk|primary)$"];>;);
+out;

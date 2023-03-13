@@ -1,0 +1,115 @@
+Avenida Brasil
+Avenida Brigadeiro Luís Antônio
+Avenida Doutor Arnaldo
+Avenida Doutor Eneas Carvalho de Aguiar
+Avenida Nove de Julho
+Avenida Paulista
+Avenida Rebouças
+Avenida São Gabriel
+Rua Alasca
+Rua Alves Guimarães
+Rua Antônio Bento
+Rua Antônio Figuerda
+Rua Antilhas
+Rua Argentina
+Rua Artur de Azevedo
+Rua Artur Frazão
+Rua Atlântica
+Rua Augusta
+Rua Barão de Capanema
+Rua Batataes
+Rua Bela Cintra
+Rua Bermudas
+Rua Bolívia
+Rua Caçapava
+Rua Caconde
+Rua Camiranga
+Rua Canadá
+Rua Capitão Pinto Ferreira
+Rua Carumbé
+Rua Cônego Eugênio Leite
+Rua Chabad
+Rua Chile
+Rua Claudina Silva
+Rua Colômbia
+Rua Conselheiro Torres Homem
+Rua Conselheiro Zacarias
+Rua Convenção de Itu
+Rua Costa Rica
+Rua Cravinhos
+Rua Cristóvão Diniz
+Rua Cuba
+Rua da Consolação
+Rua Doutor David Campista
+Rua Doutor João Pinheiro
+Rua Doutor Nelson Vasoler
+Rua Doutor Ovídio Pires de Campos
+Rua Doutor Sampaio Ferraz
+Rua Engenheiro Alcides Barbosa
+Rua Equador
+Rua Espéria
+Rua Estados Unidos
+Rua França
+Rua General Fonseca Teles
+Rua General Mena Barreto
+Rua Gironda
+Rua Groenlândia
+Rua Guadelupe
+Rua Guaiaquil
+Rua Guarará
+Rua Guatemala
+Rua Haddock Lobo
+Rua Haiti
+Rua Henrique Martins
+Rua Honduras
+Rua Iraquitã
+Rua Iucatã
+Rua Jamaica
+Rua Jardim Minerva
+Rua João Moura
+Rua José Clemente
+Rua José Maria Lisboa
+Rua Lupércio de Camargo
+Rua Madre Teodora
+Rua Maestro Chiaffarelli
+Rua Maestro Elias Lobo
+Rua Marília
+Rua Marechal Bittencourt
+Rua Martinica
+Rua México
+Rua Melo Alves
+Rua Moacir Piza
+Rua Nicarágua
+Rua Oliveira Dias
+Rua Oscar Freire
+Rua Otoniel Mota
+Rua Ouro Branco
+Rua Padre João Manuel
+Rua Pamplona
+Rua Panamá
+Rua Paraguai
+Rua Particular
+Rua Peixoto Gomide
+Rua Peru
+Rua Porto Rico
+Rua Presidente Prudente
+Rua Primavera
+Rua Professor Azevedo Amaral
+Rua Queluz
+Rua Rággio Nóbrega
+Rua Rio Preto
+Rua Rutilia
+Rua Saint-Hilaire
+Rua San Salvador
+Rua Sarandi
+Rua Sarita Cyrillo
+Rua Severo Fournier
+Rua Suzano
+Rua Tapiratiba
+Rua Tatui
+Rua Terra Nova
+Rua Uruguai
+Rua Veneza
+Rua Venezuela
+Rua Vicente Félix
+Rua Vittorio Fasano
