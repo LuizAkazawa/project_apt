@@ -1,27 +1,37 @@
+import mysql.connector
 import os
+import random
+import time
 
-region = "Sul"
-sum = 0
+datab = 'teste'
 
-lista = list()
-repet = list()
+mydb = mysql.connector.connect(
+  host="localhost",
+  user="root",
+  password="Senhafoda123",
+  database= datab
+)
 
-direc = os.listdir(f'C:/Users/Edu/Desktop/project_apt/Centros Administrativos/{region}/')
-for file in direc:
-    file_op = open(f'C:/Users/Edu/Desktop/project_apt/Centros Administrativos/{region}/{file}/ruas_{file}.txt', 'r', encoding='utf-8')
-    file_op2 = open(f'C:/Users/Edu/Desktop/project_apt/Centros Administrativos/{region}/{file}/ruas_{file}.txt', 'r', encoding='utf-8')
-    lines = file_op.readlines()
-    for i in range(len(lines)):
-        line = file_op2.readline()
-        if line not in lista:
-            lista.append(line)
-        else:
-            repet.append(line)
-            sum += 1
-    file_op.close()
-    file_op2.close()
+mycursor = mydb.cursor()
+mycursor.execute(f"use {datab}")
 
-    
-print(sum)
-#Total ruas = 36621
-#Total repet = 1203
+#INFOS para adicionar ao banco de dados
+region = 'Centro'
+year = '2023'
+uf = 'SP'
+city = 'São Paulo'
+neigh = 'Consolação'
+valor = 200
+area = 10
+ruas = 'Avenida Angelica'
+
+file = open(f"C:/Users/Edu/Documents/GitHub/project_apt/projeto/Regiões/{region}/consolação/ruas_consolação.txt", "r", encoding='utf8')
+lista = file.readline()
+
+mycursor.execute(f"INSERT INTO all_info (Ano, Estado, Cidade, Bairro, Rua, Valor, Area, ValorpArea) VALUES ('{year}', '{uf}', '{city}', '{neigh}', '{lista}', '{valor}', '{area}', '{valor/area}');")
+#mycursor.execute(f"INSERT INTO all_info (Ano, Estado, Cidade, Bairro, Rua, Valor, Area, ValorpArea) VALUES ('2023', 'SP', 'São Paulo', 'Consolação', 'Avenida Angélica', '670000', '70', '6570');")
+
+file.close()
+
+mydb.commit()
+mydb.close()
