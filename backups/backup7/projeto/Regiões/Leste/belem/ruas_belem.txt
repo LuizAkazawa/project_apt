@@ -1,0 +1,179 @@
+Avenida Alcântara Machado
+Avenida Ariston Azevedo
+Avenida Álvaro Ramos
+Avenida Celso Garcia
+Avenida Guilherme Cotching
+Rua 21 de Abril
+Rua Aconito
+Rua Adilson Farias Claro
+Rua Agostinho Nunes de Abreu
+Rua Alexandre da Conceição
+Rua Almirante Barroso
+Rua Alzira Sacchi
+Rua Anette
+Rua Antônio Fernandes Prado
+Rua Antônio Teixeira
+Rua Armando Ferreira Varanda
+Rua Artur Mota
+Rua Atílio Augusto
+Rua Azorica
+Rua Barros
+Rua Batista Parente
+Rua Bebedouro
+Rua Behring
+Rua Belarmino Matos
+Rua Belém
+Rua Belisário de Sousa
+Rua Belo Horizonte
+Rua Bernardo Saião
+Rua Brasilina Tami
+Rua Bresser
+Rua Brigadeiro Moraes
+Rua Cachoeira
+Rua Cajurú
+Rua Candelária Romano
+Rua Carlos Del Prete
+Rua Carmela Puglia
+Rua Caruapana
+Rua Catiguá
+Rua Catumbi
+Rua Celeste
+Rua Cesário Alvim
+Rua Cidade de São Simão
+Rua Coimbra
+Rua Conceição Alés
+Rua Conselheiro Cotegipe
+Rua Coronel Albino Bairão
+Rua Coronel Antônio Marcelo
+Rua Cotonificio Adelina
+Rua Dagoberto
+Rua David Zaiger
+Rua Diamantino
+Rua do Curimâ
+Rua Dona Joaquina Francisca de Paiva
+Rua dos Prazeres
+Rua Doutor Carlos Botelho
+Rua Doutor Carlos Guimarães
+Rua Doutor Clementino
+Rua Doutor Guilhem
+Rua Doutor João Batista Lacerda
+Rua Doutor João Ferraz
+Rua Doutor Milton Aldred
+Rua Doutor Romeu Bertelli
+Rua Doutor Ronaldo Porto Macedo
+Rua Doutor Silva Leme
+Rua Doutor Ubaldino do Amaral
+Rua Elói Cerqueira
+Rua Engenheiro Andrade Junior
+Rua Engenheiro Balém
+Rua Engenheiro Muniz de Aragão
+Rua Engenheiro Reynaldo Cajado
+Rua Engenheiro Saturnino de Brito
+Rua Evaristo da Veiga
+Rua Fernandes Vieira
+Rua Fernão de Magalhães
+Rua Ferreira de Oliveira
+Rua Firmiano Pinto
+Rua Francisco Gouveia
+Rua Gilberto dos Santos
+Rua Giuseppe Cesari
+Rua Gonçalves Dias
+Rua Heitor Maurano
+Rua Herval
+Rua Intendência
+Rua Iperana
+Rua Irmã Úrsula
+Rua Irmã Carolina
+Rua Irmã Paula Loebenstein
+Rua Itamaracá
+Rua Itapiraçaba
+Rua Itaqueri
+Rua Ivinheima
+Rua Júlio César da Silva
+Rua Júlio de Castilhos
+Rua Jequitinhonha
+Rua Joaquim Carlos
+Rua Joá
+Rua João Boemer
+Rua João Carlos Frederico Coelho
+Rua João Pauletto
+Rua João Singilo
+Rua José Alves de Oliveira
+Rua José Kauer
+Rua José Monteiro
+Rua José Pinheiro Bezerra
+Rua Jupirá
+Rua Juvenal Gomes Coimbra
+Rua Laércio Lúis Magri
+Rua Lavinia
+Rua Limonita
+Rua Lopes Coutinho
+Rua Luis Francisco dos Santos
+Rua Major Marcelino
+Rua Major Otaviano
+Rua Manuel de Abreu
+Rua Manuel Pereira Lobo
+Rua Manuel Ramos Paiva
+Rua Marcelo Homem de Melo
+Rua Marcos Arruda
+Rua Margarida Silveira Leite
+Rua Marquês de Abrantes
+Rua Martim Afonso
+Rua Mato Verde
+Rua Mário Cássia
+Rua Mário Costa
+Rua Mário Ybarra de Almeida
+Rua Mestre Valentin
+Rua Ministro Macedo Couto
+Rua Monteiro Caminhoá
+Rua Mores Miguel
+Rua Nelson Cruz
+Rua Nicolau Barreto
+Rua Otávio Paris
+Rua Padre Adelino
+Rua Particular
+Rua Pasqual Solda
+Rua Passarola
+Rua Passos
+Rua Paulo Andrighetti
+Rua Pedro José Peres
+Rua Pedro Lopes de Souza
+Rua Pedro Vaz de Campos
+Rua Pedro Vicente Mário Galo
+Rua Pimenta Bueno
+Rua Presidente Carlos Luz
+Rua Professor Rodolfo São Tiago
+Rua Redenção
+Rua Rio Bonito
+Rua Rodrigo Cézar de Menezes
+Rua Rubens Ignácio Pereira
+Rua Saldanha Marinho
+Rua Santa Clara
+Rua Sargento Capistrano
+Rua São José do Barreiro
+Rua São Leopoldo
+Rua Sebastião de Castro
+Rua Sebastião Pereira de Sousa
+Rua Serra da Bocaina
+Rua Serra da Mantiqueira
+Rua Serra de Agudos
+Rua Serra de Jairé
+Rua Silva Jardim
+Rua Silva Teles
+Rua Silvino Passos
+Rua Siqueira Bueno
+Rua Sousa Caldas
+Rua Tarcisio Maria da Costa
+Rua Teixeira Freitas
+Rua Tenente Antônio João
+Rua Tenente Cantinho
+Rua Tobias Barreto
+Rua Toledo Barbosa
+Rua Ubajara
+Rua Ulisses Cruz
+Rua Uriel Gaspar
+Rua Valdemar Dória
+Rua Virgínia Marani Compri
+Rua Visconde de Parnaíba
+Rua Vitório Compri
+Rua Vitor Siqueira Mingrono

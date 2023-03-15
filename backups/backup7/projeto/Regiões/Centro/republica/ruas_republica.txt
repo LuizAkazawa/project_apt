@@ -1,0 +1,92 @@
+Avenida Brigadeiro Luís Antônio
+Avenida Cásper Líbero
+Avenida Duque de Caxias
+Avenida Ipiranga
+Avenida Nove de Julho
+Avenida Prestes Maia
+Avenida Rio Branco
+Avenida São João
+Avenida São Luís
+Avenida Senador Queirós
+Avenida Vieira de Carvalho
+Rua Abelardo Pinto Piolin
+Rua Abolição
+Rua Aguiar de Barros
+Rua Alfredo Gagliotti
+Rua Antônio de Godói
+Rua Asdrúbal Nascimento
+Rua Asdrubal do Nascimento
+Rua Assembleia
+Rua Augusta
+Rua Aurora
+Rua Avanhandava
+Rua Álvaro de Carvalho
+Rua Barão de Campinas
+Rua Barão de Itapetininga
+Rua Basílio da Gama
+Rua Beneficência Portuguesa
+Rua Boticário
+Rua Brigadeiro Tobias
+Rua Cacilda
+Rua Capitão Mor Jerônimo Leitão
+Rua Capitão Salomão
+Rua Comendador José Xavier Gouveira
+Rua Conselheiro Crispiniano
+Rua Conselheiro Nébias
+Rua Conselheiro Ramalho
+Rua Coronel Batista da Luz
+Rua Coronel Xavier de Toledo
+Rua da Consolação
+Rua do Bixiga
+Rua do Boticário
+Rua do Seminário
+Rua do Triunfo
+Rua Dom Francisco de Sousa
+Rua Dom José de Barros
+Rua Dona Maria Paula
+Rua dos Andradas
+Rua dos Gusmões
+Rua dos Protestantes
+Rua dos Timbiras
+Rua Doutor Bráulio Gomes
+Rua Doutor Luiz Silveira
+Rua Doutor Nestor Esteves Natividade
+Rua Doutor Ricardo Batista
+Rua Formosa
+Rua Francisca Miquelina
+Rua Francisco Frias
+Rua Gabus Mendes
+Rua Genebra
+Rua General Couto de Magalhães
+Rua General Osório
+Rua Guaianases
+Rua Jacareí
+Rua Jaceguaí
+Rua Jandaia
+Rua Japurá
+Rua Jardim Francisco Matos
+Rua Jardim Heloísa
+Rua Joaquim Gustavo
+Rua João Adolfo
+Rua João Pasalaqua
+Rua José Paulino
+Rua Major Diogo
+Rua Major Quedinho
+Rua Marconi
+Rua Martinho Prado
+Rua Martins Fontes
+Rua Mauá
+Rua Nestor Pestana
+Rua Nova Barão
+Rua Pedro Américo
+Rua Quatorze de Julho
+Rua Quirino de Andrade
+Rua Riskallah Jorge
+Rua Santa Ifigênia
+Rua Santo Amaro
+Rua Santo Antônio
+Rua São Domingos
+Rua Sete de Abril
+Rua Vinte e Quatro de Maio
+Rua Vitória
+Rua Washington Luís

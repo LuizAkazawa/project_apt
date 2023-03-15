@@ -1,0 +1,97 @@
+Avenida Bernardino de Campos
+Avenida Brigadeiro Luís Antônio
+Avenida Nove de Julho
+Avenida Paulista
+Rua 13 de Maio
+Rua Abolição
+Rua Acaraú
+Rua Adoniran Barbosa
+Rua Alberto de Oliveira
+Rua Almirante Marques de Leão
+Rua Antônio Carlos
+Rua Araquã
+Rua Artur Prado
+Rua Avanhandava
+Rua Álvaro Guimarães
+Rua Barata Ribeiro
+Rua Barbosa Rodrigues
+Rua Capitão_Mor Roque Barreto
+Rua Cardeal Leme
+Rua Carlos Comenale
+Rua Carlos Sampaio
+Rua Cincinato Braga
+Rua Conde de São Joaquim
+Rua Condessa de São Joaquim
+Rua Conselheiro Carrão
+Rua Conselheiro Ramalho
+Rua Coração da Europa
+Rua Cunha Bueno
+Rua Delegado Éverton
+Rua Dona Adma Jafet
+Rua dos Alemães
+Rua dos Belgas
+Rua dos Bororós
+Rua dos Franceses
+Rua dos Holandeses
+Rua dos Ingleses
+Rua Doutor Alfredo Ellis
+Rua Doutor Fausto Ferraz
+Rua Doutor Lourenço Granato
+Rua Doutor Luís Barreto
+Rua Doutor Pena Forte Mendes
+Rua Doutor Plínio Barreto
+Rua Doutor Seng
+Rua Eduardo Guimarães
+Rua Engenheiro Monlevade
+Rua Fortaleza
+Rua Francisco de Andrade Machado
+Rua Frei Caneca
+Rua Garcia Fernandes
+Rua Herculano de Freitas
+Rua Humaitá
+Rua Itapeva
+Rua Itararé
+Rua João Julião
+Rua João Pasalaqua
+Rua José Tenaglia
+Rua Lettiere
+Rua Luís Porrio
+Rua Maestro Cardim
+Rua Major Diogo
+Rua Manoel Dutra
+Rua Maria José
+Rua Martiniano de Carvalho
+Rua Monsenhor Passaláqua
+Rua Paim
+Rua Pamplona
+Rua Pedro Ivo
+Rua Pedroso
+Rua Peixoto Gomide
+Rua Pio XII
+Rua Plínio Figueiredo
+Rua Professor Daher Cutait
+Rua Professor Laerte Ramos de Carvalho
+Rua Professor Otávio Mendes
+Rua Professor Picarolo
+Rua Professor Sebastião Soares de Faria
+Rua Ramon Penharrubia
+Rua Raul Carmilo
+Rua Rocha
+Rua Rui Barbosa
+Rua Samuel das Neves
+Rua Santa Branca
+Rua Santa Ernestina
+Rua Santa Madalena
+Rua Santo Amaro
+Rua Santo Antônio
+Rua São Carlos do Pinhal
+Rua São Miguel
+Rua São Vicente
+Rua Sílvia
+Rua Teixeira da Silva
+Rua Treze de Maio
+Rua Ulisses Paranhos
+Rua Una
+Rua Veloso Guerra
+Rua Vicente Prado
+Rua Visconde de Nova Granada

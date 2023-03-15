@@ -1,0 +1,7 @@
+===== CENTRO =====
+bom retiro = 7200
+cambuci = 7000
+consolação = 9500
+liberdade = 8500
+republica = 6800
+santa cecilia = 8000

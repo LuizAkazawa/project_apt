@@ -1,0 +1,150 @@
+Avenida Alcântara Machado
+Avenida Celso Garcia
+Avenida Mercúrio
+Avenida Rangel Pestana
+Avenida Senador Queirós
+Rua 21 de Abril
+Rua A
+Rua Almirante Barroso
+Rua Ana Tenório
+Rua André de Leão
+Rua Aristides Lobo
+Rua Assunção
+Rua Azevedo Júnior
+Rua B
+Rua Barão de Duprat
+Rua Barão de Jaguara
+Rua Barão de Ladário
+Rua Barros
+Rua Benjamim de Oliveira
+Rua Bresser
+Rua Brigadeiro Machado
+Rua Bucolismo
+Rua C
+Rua Caetano Pinto
+Rua Campos Sales
+Rua Capitão Faustino de Lima
+Rua Carlos de Sousa Nazaré
+Rua Carlos Garcia
+Rua Carneiro Leão
+Rua Casemiro de Abreu
+Rua Cavalheiro
+Rua Claudino Pinto
+Rua Coimbra
+Rua Comendador Afonso Kherlakian
+Rua Comendador Assad Abdalla
+Rua Comendador Chaker Dibs
+Rua Conselheiro Belisário
+Rua Coronel Antônio Marcelo
+Rua Coronel Bento Pires
+Rua Coronel Mursa
+Rua Coronel Trancoso
+Rua Correia de Andrade
+Rua D
+Rua da Alegria
+Rua da Alfândega
+Rua da Cantareira
+Rua da Figueira
+Rua da Juta
+Rua da Mooca
+Rua da Praia dos Lavradores
+Rua do Gasômetro
+Rua do Hipódromo
+Rua do Lucas
+Rua Dois
+Rua Domingos Paiva
+Rua Doutor Almeida Lima
+Rua Doutor Carlos Botelho
+Rua Doutor Costa Valente
+Rua Doutor Euclydes da Cunha
+Rua Doutor Freire
+Rua Doutor Itapura de Miranda
+Rua Doutor João Alves de Lima
+Rua Doutor Manuel Vitorino
+Rua Doutor Ricardo Gonçalves
+Rua E
+Rua Eliza Whitaker
+Rua Ernesto de Castro
+Rua Escola Técnica de Aviação
+Rua F
+Rua Fernandes Silva
+Rua Flora
+Rua G
+Rua Gomes Cardim
+Rua H
+Rua Henrique Dias
+Rua I
+Rua Inácio de Araújo
+Rua Itapira
+Rua J
+Rua Jairo Góes
+Rua Júlio Ribeiro
+Rua Joaquim Nabuco
+Rua João Jacinto
+Rua João Teodoro
+Rua Joli
+Rua José de Alencar
+Rua K
+Rua L
+Rua Lúcio Cardim
+Rua M
+Rua Marajó
+Rua Maria Domitila
+Rua Maria Joaquina
+Rua Maria Marcolina
+Rua Marquês de Oliveira
+Rua Martim Burchard
+Rua Mathias de Oliveira
+Rua Maurício Salomão Nahas
+Rua Melo Barreto
+Rua Mem de Sá
+Rua Mendes Caldeira
+Rua Mendes Júnior
+Rua Miguel Carlos
+Rua Miller
+Rua Ministro Firmino Whitaker
+Rua Monsenhor Anacleto
+Rua Monsenhor de Andrade
+Rua N
+Rua O
+Rua Oiapoque
+Rua Oriente
+Rua Palmorino Mônaco
+Rua Paraná
+Rua Particular Antônio Rolim Júnior
+Rua Paula Sousa
+Rua Paulo Afonso
+Rua Piratininga
+Rua Pires Ramos
+Rua Polignano a Mare
+Rua Pracidina
+Rua Principal
+Rua Professor Batista de Andrade
+Rua Professor Eurípedes Simoes de Paula
+Rua Professor Pinto Pereira
+Rua Prudente de Morais
+Rua Rodrigues dos Santos
+Rua Roque Victor Vasto
+Rua Rubino de Oliveira
+Rua Saião Lobato
+Rua Sampaio Moreira
+Rua Sampson
+Rua Santa Rosa
+Rua São Caetano
+Rua Sílvio Penteado
+Rua Serop Kherlakian
+Rua Silva Teles
+Rua Sobral
+Rua Torquato Neto
+Rua Um
+Rua Uruguaiana
+Rua Vadico
+Rua Vasco da Gama
+Rua Venâncio
+Rua Ventos do Norte
+Rua Vieira Martins
+Rua Visconde de Abaeté
+Rua Visconde de Parnaíba
+Rua Waldemar Seyssel P Arrelia
+Rua Wandenkolk
+Rua Xavantes

@@ -1,0 +1,217 @@
+Avenida Antônio Batuira
+Avenida Arruda Botelho
+Avenida Bagiru
+Avenida das Nações Unidas
+Avenida Diógenes Ribeiro de Lima
+Avenida Dona Elisa de Moraes Mendes
+Avenida dos Semaneiros
+Avenida Imperatriz Leopoldina
+Avenida Padre Pereira de Andrade
+Avenida Professor Frederico Herman Júnior
+Avenida Professor Manuel José Chaves
+Avenida Queiroz Filho
+Avenida São Gualter
+Rua 26
+Rua 3
+Rua Acare
+Rua Aecri
+Rua Aefuca
+Rua Aetaba
+Rua Afonso José de Carvalho
+Rua Agostinho Bezerra
+Rua Ajurapéia
+Rua Alberto Faria
+Rua Aldo de Azevedo
+Rua Alexandre Herculano
+Rua Alfaia
+Rua Alfredo Piragibe
+Rua Alice Macuco Alves
+Rua Almeida Garrett
+Rua Alvilândia
+Rua Anatólia
+Rua Andrade Fernandes
+Rua Angelim
+Rua Antônio Alarcon
+Rua Antônio Barletta
+Rua Antônio Borba
+Rua Antônio de Gouveia Giudice
+Rua Antero Barbosa
+Rua Anunze
+Rua Aperca
+Rua Aquiramum
+Rua Aracuaí
+Rua Aramanaí
+Rua Ariqueme
+Rua Armando Pinto
+Rua Arquiteto Jaime Fonseca Rodrigues
+Rua Artur Riedel
+Rua Artur Stickel
+Rua Atimba
+Rua Bacopari
+Rua Baiás
+Rua Baicuri
+Rua Bandim
+Rua Banibas
+Rua Barajuba
+Rua Barão de Morenos
+Rua Beatriz
+Rua Belchior da Cunha
+Rua Belini
+Rua Bennet
+Rua Bergamota
+Rua Berlioz
+Rua Bernarda Luís
+Rua Boquim
+Rua Brás Mendes
+Rua Caiapônia
+Rua Caminha de Amorim
+Rua Capepuxis
+Rua Capivarinhas
+Rua Caraça
+Rua Caraúna
+Rua Caramimuã
+Rua Cardeal Cagliori
+Rua Cardoso de Melo Júnior
+Rua Cariaçá
+Rua Carlos Rath
+Rua Carolina Monelli
+Rua Caropá
+Rua Castro Delgado
+Rua Cerro Corá
+Rua Chichorro da Gama
+Rua Coelho de Carvalho
+Rua Cordeiro Galvão
+Rua Cristalândia
+Rua Cristóvão Junqueira de Almeida
+Rua Dardanelos
+Rua das Tabocas
+Rua Décio Reis
+Rua Desembargador Ferreira França
+Rua Desembargador Joaquim Barbosa de Almeida
+Rua Desembargador José Gonçalves Santana
+Rua Dom Leopoldo I
+Rua Dom Rosalvo
+Rua Dona Elisa de Moraes Mendes
+Rua dos Escultores
+Rua dos Macunis
+Rua Doutor Alberto Seabra
+Rua Doutor Baeta Neves
+Rua Doutor Barachisio Lisboa
+Rua Doutor Brandão Veras
+Rua Doutor Carlos Norberto de Souza Aranha
+Rua Doutor José Rodrigues Alves Sobrinho
+Rua Doutor Luís Augusto de Queirós Aranha
+Rua Doutor Olívio Uzeda Moreira
+Rua Doutor Theophilo Ribeiro de Andrade
+Rua Endê
+Rua Engenheiro Mário Pamponet.
+Rua Engenheiro Sá Rocha
+Rua Epeira
+Rua Ernesto Nazaré
+Rua Evangelista Rodrigues
+Rua Ezevu
+Rua Felipe Gusmão
+Rua Filadelfo Aranha
+Rua Florália
+Rua François Clovet
+Rua Gomes de Medeiros
+Rua Gregório Barbosa
+Rua Gregório Paes de Almeida
+Rua Guaianaz da Fonseca
+Rua Guerra Junqueiro
+Rua Guilherme Moura
+Rua Gumercindo Fleury
+Rua Hendrik Bles
+Rua Honorato Faustino
+Rua Ibiraçu
+Rua Inhatium
+Rua Isabel de Castela
+Rua Itapicura
+Rua Jamil Lataif
+Rua Japiaçóia
+Rua Japuanga
+Rua Joaquim Seabra
+Rua João Batista Cardoso
+Rua João Batista Leme da Silva
+Rua Jorge Felipe Sabra
+Rua José Dornellas
+Rua Jubiabá
+Rua Judite
+Rua Jurandá
+Rua Juvenal de Almeida
+Rua Laiana
+Rua Laura Vicuna
+Rua Leão Coroado
+Rua Lelis Vieira
+Rua Lemos Conde
+Rua Lira
+Rua Livi
+Rua Luciano Gallet
+Rua Madre Maria Angélica Resende
+Rua Madre Mazarello
+Rua Majubim
+Rua Marcos Melega
+Rua Maria da Grã
+Rua Maria Leonete da Silva Nóbrega
+Rua Massaca
+Rua Max Engelhardt
+Rua Mário Guastini
+Rua Mário Jorge
+Rua Miguel Rodrigues
+Rua Ministro Américo Marco Antônio
+Rua Miralta
+Rua Murajuba
+Rua Murupi
+Rua Napoleão Laureano
+Rua Natingui
+Rua Nazaré Paulista
+Rua Nélson Ferreira de Sousa
+Rua Oboró
+Rua Oquirá
+Rua Orós
+Rua Orobó
+Rua Oscar Caravelas
+Rua Ourânia
+Rua Padre Artur Somensi
+Rua Padre Cerda
+Rua Padre Lariviere
+Rua Papanga
+Rua Pascoal Vita
+Rua Pau-Brasil
+Rua Pedralva
+Rua Pedro de Sousa Campos Filho
+Rua Pereira Leite
+Rua Piacá
+Rua Pianu
+Rua Pio XI
+Rua Professor Moniz
+Rua Professor Nova Gomes
+Rua Professor Pirajá da Silva
+Rua Professor Túlio Ascarelli
+Rua Prudentópolis
+Rua Putumuju
+Rua Raul Adalberto de Campos
+Rua Realengo
+Rua Roberto Caldas Kerr
+Rua Romeu Perrotti
+Rua Sagarana
+Rua Sararé
+Rua São Bento do Sul
+Rua São Domingos Sávio
+Rua São Frimo
+Rua São Macário
+Rua Sebastião Caleiro
+Rua Sebastião Rodrigues
+Rua Silvia Celeste de Campos
+Rua Soares de Aragão
+Rua Sucuriú
+Rua Timbuiba
+Rua Ubiracica
+Rua Ucaiari
+Rua Umburanas
+Rua Válter Belian
+Rua Victor Salzo
+Rua Visconde de Araruama
+Rua Visconde de Maracajú
+Rua Vitorino de Carvalho
+Rua Xupé
