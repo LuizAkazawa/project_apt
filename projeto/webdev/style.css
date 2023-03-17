@@ -1,5 +1,9 @@
 html, body {
-  height: 100%;
+  height: 70%;
+}
+
+body{
+  margin-right: 6px /*gambiarra pra encaixar os backgrounds*/
 }
 
 
@@ -10,7 +14,7 @@ html{
 }
 
 
-body{
+.Center_info{
   overflow: scroll;
   border: none;
   height: 100%;
@@ -38,8 +42,8 @@ body{
   border-style: solid;
   border-color: grey;
   border-radius: 40px;
-  margin-left: 32.1%;
-  width: 200px;
+  margin-left: 32.1%; /*16:9 proportion*/
+  width: 13.4%;
   height: 60px;
   background-color: grey;
 }
@@ -50,17 +54,20 @@ body{
   border-radius: 40px;
   background-color: grey;
   margin-left: 8%;
-  width: 200px;
+  width: 13.4%;
   height: 60px;
 }
 
-#intro_1{
+#intro{
   text-align: center;
   margin-top: 4.4%;
 }
 
-#intro_2{
-  text-align: center;
-  margin-top: 4.4%;
+.bottom_bar{
+  border: none;
+  width: 1920px;
+  height: 150px;
+  background-color: black;
+  opacity: 93%;
+  margin-top: 10%;
 }
-
