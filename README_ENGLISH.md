@@ -1,4 +1,4 @@
---- Project A---
+# Project A
 This project has its objective to create a system, in a site, that shows some data about properties in urban areas, like the prices of the properties, the average $/m2, and comparisons between 2013 to 2023 of separate data by Street or Neighborhood, you can choose it in the filter.
 
 ## In Progress
